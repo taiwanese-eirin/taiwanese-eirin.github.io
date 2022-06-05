@@ -33,3 +33,9 @@ layout: default
 <p align=center>
 Email: <a href="mailto:taiwanese.eirin@zohomail.com">taiwanese.eirin@zohomail.com</a>
 </p>
+
+---
+
+<center>
+Copyright © 2022 台湾人の永琳. All rights reserved.
+</center>
