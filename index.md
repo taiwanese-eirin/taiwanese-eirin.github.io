@@ -43,11 +43,8 @@ layout: default
 <center> <h1> Contact </h1> </center>
 <center>
 Email: <a href="mailto:taiwanese.eirin@zohomail.com">taiwanese.eirin@zohomail.com</a>
-<br/>
 </center>
 
----
-
 <center>
-Copyright © 2022 台湾人の永琳. All rights reserved.
+<p><small> Copyright © 2022 台湾人の永琳. All rights reserved. </small></p>
 </center>
