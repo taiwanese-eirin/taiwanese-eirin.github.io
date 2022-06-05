@@ -16,6 +16,8 @@ layout: default
 <a href="https://forms.gle/W5NtRgRRqEJyb93d8">線上物販表單</a>
 </p>
 
+---
+
 <center> <h1> About </h1> </center>
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vROcqw-BQgtqo3FrMohBH1m4Zp7sNt8MtXA0m-_6g2bOvROmXkTv8rOb_1j_K8xSQ/pub?embedded=true" frameborder="0" width="100%" height="400px" id="about"></iframe>
@@ -30,6 +32,7 @@ layout: default
     }
 </script>
 
+---
 
 <center> <h1> History </h1> </center>
 
