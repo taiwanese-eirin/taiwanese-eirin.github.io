@@ -1,7 +1,7 @@
 # Discography
 
 | | |
-| ------------- | ------------- |
+| --- | :---: |
 | ![船出](img/comp_album_1.jpg) | HAPPY WAVE 創作合輯<br/>船出 Set Sail |
 | ![生まれ変わる](img/single_1.jpg) | 台湾人の永琳 1st Single<br/>生まれ変わる |
 | ![Do You ワナ Touch Me](img/single_2.jpg) | 台湾人の永琳 2nd Single<br/>Do You ワナ Touch Me |
