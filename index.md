@@ -22,4 +22,4 @@ layout: default
 
 # Contact
 
-## Email: [taiwanese.eirin@zohomail.com](mailto:taiwanese.eirin@zohomail.com)
+Email: [taiwanese.eirin@zohomail.com](mailto:taiwanese.eirin@zohomail.com)
