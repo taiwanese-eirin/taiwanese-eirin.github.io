@@ -43,7 +43,7 @@ layout: default
 <center> <h1> Contact </h1> </center>
 <center>
 Email: <a href="mailto:taiwanese.eirin@zohomail.com">taiwanese.eirin@zohomail.com</a>
-</br>
+<br/>
 </center>
 
 ---
