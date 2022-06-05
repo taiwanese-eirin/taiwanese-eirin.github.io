@@ -13,7 +13,7 @@ layout: default
 <center> <h1> Shop </h1> </center>
 
 <p align=center>
-<a href="https://forms.gle/W5NtRgRRqEJyb93d8">線上物販表單</a>
+<h2><a href="https://forms.gle/W5NtRgRRqEJyb93d8">線上物販表單</a></h2>
 </p>
 
 ---
