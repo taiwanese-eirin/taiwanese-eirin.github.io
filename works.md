@@ -8,6 +8,7 @@ layout: default
 | :---: | :---: | :---: | :---: | :---: |
 | [News](index.html) | [Events](events.html) | [Works](works.html) | [About](about.html) | [History](history.html) |
 
+
 | | |
 | :---: | :---: |
 | [![一個人的畢業歌](img/single_3.jpg)](https://www.soundscape.net/a/26082) | 台湾人の永琳 3rd Single<br/>一個人的畢業歌 |
