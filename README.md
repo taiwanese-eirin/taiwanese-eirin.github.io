@@ -3,8 +3,8 @@ All rights reserved.
 
 ## Previewing
 
-Refer to [minimal-theme](https://github.com/pages-themes/minimal#previewing-the-theme-locally) for more details
+Refer to [minimal-theme](https://github.com/pages-themes/minimal#previewing-the-theme-locally) for more details.
 - Run `make` to install dependencies using minimal-theme scripts
 - Run `make web` to start the preview server
 
-Additional `gem install` may be needed. For convenience, using `sudo` for runing the scripts to prevent permission issues.
+Additional `gem install` may be needed. For convenience, using `sudo` for running the scripts to prevent permission issues.
