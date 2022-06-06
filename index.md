@@ -9,9 +9,9 @@ layout: default
 
 <h1><a href="events.html">Events</a></h1>
 
-<h1><a href="https://forms.gle/W5NtRgRRqEJyb93d8" target="_blank">Shop</a></h1>
-
 <h1><a href="history.html">History</a></h1>
+
+<h1><a href="https://forms.gle/W5NtRgRRqEJyb93d8" target="_blank">Shop</a></h1>
 
 </center>
 
