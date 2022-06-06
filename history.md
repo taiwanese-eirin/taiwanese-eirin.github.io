@@ -4,9 +4,9 @@ layout: default
 
 <center> <h1> History </h1> </center>
 
-|       |       |       |       |       |       |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [News](index.html) | [Events](events.html) | [About](about.html) | [Works](works.html) | [History](history.html) | <a href="https://forms.gle/W5NtRgRRqEJyb93d8" target="_blank">Shop</a> |
+|       |       |       |       |       |
+| :---: | :---: | :---: | :---: | :---: |
+| [News](index.html) | [Events](events.html) | [About](about.html) | [Works](works.html) | [History](history.html) |
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRN5hAXkW0HlG3dAURmSzsE8PkZRHh3OOfFhDRlDAnGKvEnpr9ZMhoqVdHgfbg3b9rWxDaZcIhzia2I/pub?embedded=true" frameborder="0" width="100%" height="400"></iframe>
 

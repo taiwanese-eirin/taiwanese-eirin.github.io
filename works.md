@@ -4,9 +4,9 @@ layout: default
 
 <center> <h1> Works </h1> </center>
 
-|       |       |       |       |       |       |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [News](index.html) | [Events](events.html) | [About](about.html) | [Works](works.html) | [History](history.html) | <a href="https://forms.gle/W5NtRgRRqEJyb93d8" target="_blank">Shop</a> |
+|       |       |       |       |       |
+| :---: | :---: | :---: | :---: | :---: |
+| [News](index.html) | [Events](events.html) | [About](about.html) | [Works](works.html) | [History](history.html) |
 
 | | |
 | :---: | :---: |
