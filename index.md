@@ -1,18 +1,15 @@
 ---
 layout: default
 ---
+
+<center> <h1> News </h1> </center>
+
+|       |       |       |       |       |       |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [News](index.html) | [Events](events.html) | [About](about.html) | [Works](works.html) | [History](history.html) | <a href="https://forms.gle/W5NtRgRRqEJyb93d8" target="_blank">Shop</a> |
+
 <center>
-
-<h1><a href="about.html">About</a></h1>
-
-<h1><a href="works.html">Works</a></h1>
-
-<h1><a href="events.html">Events</a></h1>
-
-<h1><a href="history.html">History</a></h1>
-
-<h1><a href="https://forms.gle/W5NtRgRRqEJyb93d8" target="_blank">Shop</a></h1>
-
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTaiwaneseEirin%2Fposts%2F5285032704853265&show_text=true&width=500" width="100%" height="538" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </center>
 
 ---
