@@ -6,7 +6,7 @@ layout: default
 
 |       |       |       |       |       |
 | :---: | :---: | :---: | :---: | :---: |
-| [News](index.html) | [Events](events.html) | [About](about.html) | [Works](works.html) | [History](history.html) |
+| [News](index.html) | [Events](events.html) | [Works](works.html) | [About](about.html) | [History](history.html) |
 
 | | |
 | :---: | :---: |
