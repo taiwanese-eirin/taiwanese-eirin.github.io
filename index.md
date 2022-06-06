@@ -3,16 +3,15 @@ layout: default
 ---
 <center>
 
-<h1><a href="works.html">Works</a></h1>
+<h1><a href="about.html">About</a></h1>
 
-<h1><a href="https://forms.gle/W5NtRgRRqEJyb93d8" target="_blank">Shop</a></h1>
+<h1><a href="works.html">Works</a></h1>
 
 <h1><a href="events.html">Events</a></h1>
 
-<h1><a href="about.html">About</a></h1>
+<h1><a href="https://forms.gle/W5NtRgRRqEJyb93d8" target="_blank">Shop</a></h1>
 
 <h1><a href="history.html">History</a></h1>
-
 
 </center>
 
