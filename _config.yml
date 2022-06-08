@@ -1,6 +1,8 @@
 title: 台湾人の永琳
-logo: /img/logo.png
+email: taiwanese.eirin@zohomail.com
+copyright: "Copyright © 2022 台湾人の永琳. All rights reserved."
 description: 台湾人の永琳 Official Website
+logo: /img/logo.png
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

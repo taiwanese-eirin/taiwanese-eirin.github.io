@@ -1,41 +1,51 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.description }}</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
 
-    <div id="fb-root"></div>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v14.0" nonce="jw6QEqRL"></script>
-
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <center><h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1></center>
+        <center>
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        </center>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <center>
-          <a href="https://lin.ee/2W4EVfJ"><img height="24" border="0" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
-          <script src="https://apis.google.com/js/platform.js"></script>
-          <div class="g-ytsubscribe" data-channelid="UCjpybMLjLjSR1uamKy3teAw" data-layout="default" data-count="default"></div>
-          <div class="fb-page" data-href="https://www.facebook.com/TaiwaneseEirin/" data-tabs="timeline" data-width="215" data-height="70" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/TaiwaneseEirin/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TaiwaneseEirin/">台湾人の永琳</a></blockquote></div>
-        </center>
+        {% include header-custom.html %}
 
       </header>
       <section>
 
-      {{ content }}
+        <center> <h1> {{ page.title }} </h1> </center>
+
+        {{ content }}
+
+        {% if site.email %}
+          <hr>
+          <center>
+            <h3>Contact</h3>
+            <h4>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></h4>
+          </center>
+        {% endif %}
+
+        {% if site.copyright %}
+          <hr>
+          <center>
+            <p><small> {{ site.copyright }} </small></p>
+          </center>
+        {% endif %}
 
       </section>
       <footer>
