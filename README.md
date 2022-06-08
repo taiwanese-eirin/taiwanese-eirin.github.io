@@ -1,4 +1,4 @@
-This project is for hosting 台湾人の永琳 website.
+This project is for hosting 台湾人の永琳 official website.
 All rights reserved.
 
 ## Previewing
