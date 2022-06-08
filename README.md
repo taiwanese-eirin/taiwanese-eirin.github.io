@@ -1,7 +1,7 @@
 This project is for hosting 台湾人の永琳 official website.
 All rights reserved.
 
-## Previewing Locally
+## Preview Locally
 
 Refer to [minimal-theme](https://github.com/pages-themes/minimal#previewing-the-theme-locally) for more details.
 - Run `make` to install dependencies using minimal-theme scripts
