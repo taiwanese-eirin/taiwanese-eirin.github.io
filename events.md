@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Events
+description: 台湾人の永琳 Events
 ---
 
 {% include_relative list.md %}
