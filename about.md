@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+description: 台湾人の永琳 About
 ---
 
 {% include_relative list.md %}
