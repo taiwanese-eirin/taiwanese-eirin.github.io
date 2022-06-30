@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Events
-description: 台湾人の永琳 Events
+title: Schedule
+description: 台湾人の永琳 Schedule
 ---
 
 {% include_relative list.md %}
