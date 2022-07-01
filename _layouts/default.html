@@ -30,35 +30,33 @@
 
         {{ content }}
 
-        {% if site.email %}
-          <hr>
-          <center>
-            <h3>Contact</h3>
-            <h4>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></h4>
-          </center>
-        {% endif %}
+        
+        <hr>
 
         <center>
-        {% if site.sns.facebook %}
-          <a href="{{ site.sns.facebook }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-facebook-24.png></a>
-        {% endif %}
-
-        {% if site.sns.youtube %}
-          <a href="{{ site.sns.youtube }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-youtube-24.png></a>
-        {% endif %}
-
-        {% if site.sns.line %}
-          <a href="{{ site.sns.line }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-line-24.png></a>
-        {% endif %}
-
-        {% if site.sns.plurk %}
-          <a href="{{ site.sns.plurk }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-plurk-24.png></a>
-        {% endif %}
-
-        {% if site.sns.twitch %}
-          <a href="{{ site.sns.twitch }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-twitch-24.png></a>
-        {% endif %}
+          {% if site.email or site.sns %}
+            <h3>Contact</h3>
+          {% endif %}
+          {% if site.email %}
+            <a href="mailto:{{ site.email }}"><img src=icon/icons8-email-24.png></a>
+          {% endif %}
+          {% if site.sns.facebook %}
+            <a href="{{ site.sns.facebook }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-facebook-24.png></a>
+          {% endif %}
+          {% if site.sns.youtube %}
+            <a href="{{ site.sns.youtube }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-youtube-24.png></a>
+          {% endif %}
+          {% if site.sns.line %}
+            <a href="{{ site.sns.line }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-line-24.png></a>
+          {% endif %}
+          {% if site.sns.plurk %}
+            <a href="{{ site.sns.plurk }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-plurk-24.png></a>
+          {% endif %}
+          {% if site.sns.twitch %}
+            <a href="{{ site.sns.twitch }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-twitch-24.png></a>
+          {% endif %}
         </center>
+
 
         {% if site.copyright %}
           <hr>
