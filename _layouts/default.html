@@ -30,13 +30,12 @@
 
         {{ content }}
 
-        
-        <hr>
-
-        <center>
-          {% if site.email or site.sns %}
+        {% if site.email or site.sns %}
+          <hr>
+          <center>
             <h3>Contact</h3>
-          {% endif %}
+        {% endif %}
+
           {% if site.email %}
             <a href="mailto:{{ site.email }}"><img src=icon/icons8-email-24.png></a>
           {% endif %}
@@ -55,8 +54,10 @@
           {% if site.sns.twitch %}
             <a href="{{ site.sns.twitch }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-twitch-24.png></a>
           {% endif %}
-        </center>
-
+        
+        {% if site.email or site.sns %}
+          </center>
+        {% endif %}
 
         {% if site.copyright %}
           <hr>
