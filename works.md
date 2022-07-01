@@ -8,7 +8,7 @@ description: 台湾人の永琳 Works
 
 |       |       |
 | :---: | :---: |
-| ![一個人的畢業歌](img/single_3.jpg) | [台湾人の永琳 3rd Single<br/>一個人的畢業歌](https://www.soundscape.net/a/26082) |
-| ![Do You ワナ Touch Me](img/single_2.jpg) | [台湾人の永琳 2nd Single<br/>Do You ワナ Touch Me](https://www.soundscape.net/a/21065) |
-| ![生まれ変わる](img/single_1.jpg) | [台湾人の永琳 1st Single<br/>生まれ変わる](https://www.soundscape.net/a/16698) |
-| ![船出](img/comp_album_1.jpg) | HAPPY WAVE Vol.1<br/>船出 Set Sail<br/>[光を追う](https://youtu.be/z7mRK3JfiZ4) |
+| ![一個人的畢業歌](img/single_3.jpg) | <a href="https://www.soundscape.net/a/26082" target="_blank" rel="noopener noreferrer">台湾人の永琳 3rd Single<br/>一個人的畢業歌</a> |
+| ![Do You ワナ Touch Me](img/single_2.jpg) | <a href="https://www.soundscape.net/a/21065" target="_blank" rel="noopener noreferrer">台湾人の永琳 2nd Single<br/>Do You ワナ Touch Me</a> |
+| ![生まれ変わる](img/single_1.jpg) | <a href="https://www.soundscape.net/a/16698" target="_blank" rel="noopener noreferrer">台湾人の永琳 1st Single<br/>生まれ変わる</a> |
+| ![船出](img/comp_album_1.jpg) | HAPPY WAVE Vol.1<br/>船出 Set Sail<br/><a href="https://youtu.be/z7mRK3JfiZ4" target="_blank" rel="noopener noreferrer">光を追う</a> |
