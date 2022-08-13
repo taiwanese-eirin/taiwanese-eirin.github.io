@@ -41,6 +41,9 @@
           {% if site.email %}
             <a href="mailto:{{ site.email }}"><img src=icon/icons8-email-24.png></a>
           {% endif %}
+          {% if site.sns.twitter %}
+            <a href="{{ site.sns.twitter }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-twitter-24.png></a>
+          {% endif %}
           {% if site.sns.facebook %}
             <a href="{{ site.sns.facebook }}" target="_blank" rel="noopener noreferrer"><img src=icon/icons8-facebook-24.png></a>
           {% endif %}
