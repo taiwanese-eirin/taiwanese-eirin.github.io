@@ -11,6 +11,6 @@ description: 台湾人の永琳 About
 
 ### 介紹
 
-{% include_relative contents/introduce.txt %}
+{% include_relative contents/introduce.md %}
 
 完整作品列表 > *[Works](./works.html)*
