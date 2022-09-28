@@ -6,4 +6,4 @@ description: 台湾人の永琳 Works
 
 {% include_relative list.md %}
 
-{% include_relative album.txt %}
+{% include_relative contents/album.md %}
