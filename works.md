@@ -6,7 +6,7 @@ description: 台湾人の永琳 Works
 
 {% include_relative list.md %}
 
-### シングル／單曲
+# シングル／單曲
 
 |       |       |
 | :---: | :---: |
@@ -15,7 +15,7 @@ description: 台湾人の永琳 Works
 | <a href="https://youtu.be/Spdm6Rdkd8A" target="_blank" rel="noopener noreferrer">![Do You ワナ Touch Me](img/single_2.jpg)</a> | <a href="https://www.soundscape.net/a/21065" target="_blank" rel="noopener noreferrer">台湾人の永琳 2nd Single<br/>Do You ワナ Touch Me</a> |
 | <a href="https://youtu.be/2faotuVptyk" target="_blank" rel="noopener noreferrer">![生まれ変わる](img/single_1.jpg)</a> | <a href="https://www.soundscape.net/a/16698" target="_blank" rel="noopener noreferrer">台湾人の永琳 1st Single<br/>生まれ変わる</a> |
 
-### コンピレーション・アルバム／合輯
+# コンピレーション・アルバム／合輯
 
 |       |       |
 | :---: | :---: |
