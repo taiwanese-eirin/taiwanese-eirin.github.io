@@ -39,5 +39,6 @@ description: 台湾人の永琳 About
 #### 2023年
 - 遊戲《雲海：無限邊境》主題曲 作詞
 
-### Music Electronic Press Kit (中文)
-- <a href="https://drive.google.com/file/d/1zlIMSPs2-AHuWZu4v-ic5RugzYPsd3LV/view?usp=share_link" target="_blank" rel="noopener noreferrer">EPK.pdf</a>
+### Music Electronic Press Kit
+- <a href="https://drive.google.com/file/d/1NyxnKKcriiM8BVkY_Wn8OL0dlkAeAo0P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK.pdf</a>
+- <a href="https://drive.google.com/file/d/1FaLfZCl1RbraRHeMMQ3zrE20J2xrVVi8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">中文EPK.pdf</a>
