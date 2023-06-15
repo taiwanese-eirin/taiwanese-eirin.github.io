@@ -40,5 +40,5 @@ description: 台湾人の永琳 About
 - 遊戲《雲海：無限邊境》主題曲 作詞
 
 ### Music Electronic Press Kit
-- <a href="https://drive.google.com/file/d/1NyxnKKcriiM8BVkY_Wn8OL0dlkAeAo0P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK.pdf</a>
-- <a href="https://drive.google.com/file/d/1FaLfZCl1RbraRHeMMQ3zrE20J2xrVVi8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">中文EPK.pdf</a>
+- <a href="https://drive.google.com/file/d/1NyxnKKcriiM8BVkY_Wn8OL0dlkAeAo0P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_EN.pdf</a>
+- <a href="https://drive.google.com/file/d/1FaLfZCl1RbraRHeMMQ3zrE20J2xrVVi8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_中文.pdf</a>
