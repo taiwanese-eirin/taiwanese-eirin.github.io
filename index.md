@@ -1,7 +1,7 @@
 ---
 layout: default
-title: News
-description: 台湾人の永琳 News
+title: Home
+description: 台湾人の永琳 Home
 ---
 
 {% include_relative list.md %}
