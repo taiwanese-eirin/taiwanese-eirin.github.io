@@ -8,3 +8,4 @@ description: 台湾人の永琳 News
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTaiwaneseEirin&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&show_text=true&appId" width="100%" height="491" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/taiwanese_eirin/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
