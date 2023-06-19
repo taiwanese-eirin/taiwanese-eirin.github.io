@@ -6,8 +6,6 @@ description: 台湾人の永琳 News
 
 {% include_relative list.md %}
 
-<div class="fb-page" data-href="https://www.facebook.com/TaiwaneseEirin" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/TaiwaneseEirin" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TaiwaneseEirin">台湾人の永琳</a></blockquote></div>
-
 <p><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/taiwanese_eirin/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:16px;">
     <a href="https://www.instagram.com/taiwanese_eirin/?utm_source=ig_embed&utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
@@ -67,6 +65,3 @@ description: 台湾人の永琳 News
 </blockquote>
 
 <script async src="//www.instagram.com/embed.js"></script></p>
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v17.0" nonce="8C2Pz49Z"></script>
