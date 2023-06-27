@@ -9,6 +9,10 @@ description: 台湾人の永琳 About
 ### 維基百科（日文）／ウイキペディア（日本語Wikiページ）
 - <a href="https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E4%BA%BA%E3%81%AE%E6%B0%B8%E7%90%B3" target="_blank" rel="noopener noreferrer">*台湾人の永琳 - Wikipedia*</a>
 
+### Music Electronic Press Kit
+- <a href="https://drive.google.com/file/d/1NyxnKKcriiM8BVkY_Wn8OL0dlkAeAo0P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_EN.pdf</a>
+- <a href="https://drive.google.com/file/d/1FaLfZCl1RbraRHeMMQ3zrE20J2xrVVi8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_中文.pdf</a>
+
 ### 「台湾人の永琳」介紹
 來自台北的日系音樂詞曲創作歌手，獨立製作、獨立發行。同時也是動漫翻唱歌手，活躍於各大動漫類展演活動。
 
@@ -38,7 +42,3 @@ description: 台湾人の永琳 About
 
 #### 2014年
 - HAPPY WAVE合輯Vol.1《船出》曲目〈光を追う〉 作詞、演唱
-
-### Music Electronic Press Kit
-- <a href="https://drive.google.com/file/d/1NyxnKKcriiM8BVkY_Wn8OL0dlkAeAo0P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_EN.pdf</a>
-- <a href="https://drive.google.com/file/d/1FaLfZCl1RbraRHeMMQ3zrE20J2xrVVi8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_中文.pdf</a>
