@@ -6,8 +6,6 @@ description: 台湾人の永琳 Works
 
 {% include_relative list.md %}
 
-### Songs
-
 |       |       |       |
 | :---: | :---: | :---: |
 | <a href="https://youtu.be/5ocMN4_O8iU" target="_blank" rel="noopener noreferrer">![命は短し、お酒飲もう](img/single_5.jpg) </a> | <a href="https://www.soundscape.net/a/41364" target="_blank" rel="noopener noreferrer">台湾人の永琳 5th Single<br/>墨色海洋</a> | <a href="https://docs.google.com/document/d/e/2PACX-1vTjnQ174PVztlAoOlMWNOUaTORe5fSJdX-yMXKlj43a7K-SYrDgjHfQII6_LbNdmFA15GDoOe0VszF_/pub" target="_blank" rel="noopener noreferrer">歌詞</a> |
