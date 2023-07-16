@@ -10,7 +10,6 @@ sns:
   plurk: https://www.plurk.com/TaiwaneseEirin
   line: https://lin.ee/2W4EVfJ
   twitter: https://twitter.com/TaiwaneseEirin
-  discord: https://discord.gg/eHG6PmPkgW
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
