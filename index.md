@@ -9,3 +9,5 @@ description: 台湾人の永琳 Home
 ### Photos & Reels
 
 {% include_relative ig.md %}
+
+{% include_relative support.md %}
