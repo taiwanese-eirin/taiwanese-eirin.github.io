@@ -143,4 +143,6 @@ description: 台湾人の永琳 Works
 
 |       |       |       |
 | :---: | :---: | :---: |
-| ![船出](img/comp_album_1.jpg) | HAPPY WAVE Vol.1<br/>船出 Set Sail<br/>03. 光を追う | <a href="https://docs.google.com/document/d/e/2PACX-1vT6Z-5hKr8aZoxAsZZY393AZe8N4Z4dS9-UVzAdfWo2ZXyTbfbJKAADkxSr12x8rk6t2vUtvhlAJ8g5/pub" target="_blank" rel="noopener noreferrer">歌詞</a> |
+| <a href="https://www.youtube.com/watch?v=HafK8DmClTo" target="_blank" rel="noopener noreferrer">![雲海：無限邊境](img/seaofclouds.jpg)</a> | 雲海：無限邊境 主題曲<br/>作詞 | <a href="https://docs.google.com/document/d/e/2PACX-1vQNgyAEWmOIrfvafePkNkIrkDJGCtt_QoKainMgQSMKwqvgQ4n5uFoS_v9JhmD8ZZSxHnqu0NA4XMqB/pub" target="_blank" rel="noopener noreferrer">歌詞</a> |
+| <a href="https://www.youtube.com/watch?v=AzUZRHQiAp4" target="_blank" rel="noopener noreferrer">![達卡拉物語](img/takara.jpg)</a> | 達卡拉物語 主題曲<br/>作詞 | <a href="https://docs.google.com/document/d/e/2PACX-1vQkxwPiw0XkT-sQJzMlgP07bKKJd77XUVKqNeRpZd7dLjVf8RT6av_FGsSa2c560TeF7rpXnj-OZ_6D/pub" target="_blank" rel="noopener noreferrer">歌詞</a> |
+| ![船出](img/comp_album_1.jpg) | HAPPY WAVE Vol.1<br/>船出 Set Sail<br/>03. 光を追う<br/>作詞、演唱 | <a href="https://docs.google.com/document/d/e/2PACX-1vT6Z-5hKr8aZoxAsZZY393AZe8N4Z4dS9-UVzAdfWo2ZXyTbfbJKAADkxSr12x8rk6t2vUtvhlAJ8g5/pub" target="_blank" rel="noopener noreferrer">歌詞</a> |
