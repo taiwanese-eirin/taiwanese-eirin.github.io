@@ -19,7 +19,7 @@ description: 台湾人の永琳 Works
 ###  Stories
 
 ---
-#### [墨色海洋](https://youtu.be/5ocMN4_O8iU)
+#### 墨色海洋
 
 「不會啦，你想太多了，事情沒有那麼糟」
 
@@ -56,7 +56,7 @@ description: 台湾人の永琳 Works
 擁抱我滿身斑駁的傷痕。
 
 ---
-#### [命は短し、お酒飲もう](https://youtu.be/DHACQMBtWCY)
+#### 命は短し、お酒飲もう
 
 你在陰暗的森林裡迷路了。
 
@@ -95,7 +95,7 @@ description: 台湾人の永琳 Works
 反正人生苦短，不如回想起自己本來的樣貌。
 
 ---
-#### [一個人的畢業歌](https://youtu.be/8SHSo3lrphU)
+#### 一個人的畢業歌
 
 隨著連日的梅雨，畢業季來臨了。
 
@@ -124,14 +124,14 @@ description: 台湾人の永琳 Works
 前進，並且不再懷疑自己。
 
 ---
-#### [Do You ワナ Touch Me](https://youtu.be/Spdm6Rdkd8A)
+#### Do You ワナ Touch Me
 
 用最帥氣的歌曲，唱最甜美的歌詞。
 
 充滿自信地宣告，你會不知不覺被我擊中。
 
 ---
-#### [生まれ変わる](https://youtu.be/2faotuVptyk)
+#### 生まれ変わる
 
 雖然現在的我還不能說是有什麼顯著的成就，
 
