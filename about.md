@@ -6,8 +6,8 @@ description: 台湾人の永琳 About
 
 {% include_relative list.md %}
 
-## 維基百科（日文）／ウイキペディア（日本語Wikiページ）
-- <a href="https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E4%BA%BA%E3%81%AE%E6%B0%B8%E7%90%B3" target="_blank" rel="noopener noreferrer">*台湾人の永琳 - Wikipedia*</a>
+## 維基百科／ウイキペディア
+- <a href="https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E4%BA%BA%E3%81%AE%E6%B0%B8%E7%90%B3" target="_blank" rel="noopener noreferrer">台湾人の永琳 - Wikipedia（日本語Wikiページ）</a>
 
 ## Music Electronic Press Kit
 - <a href="https://drive.google.com/file/d/1NyxnKKcriiM8BVkY_Wn8OL0dlkAeAo0P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_EN.pdf</a>
