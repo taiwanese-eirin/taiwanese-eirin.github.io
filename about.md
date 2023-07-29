@@ -13,6 +13,28 @@ description: 台湾人の永琳 About
 - <a href="https://drive.google.com/file/d/1NyxnKKcriiM8BVkY_Wn8OL0dlkAeAo0P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_EN.pdf</a>
 - <a href="https://drive.google.com/file/d/1FaLfZCl1RbraRHeMMQ3zrE20J2xrVVi8/view?usp=drive_link" target="_blank" rel="noopener noreferrer">EPK_中文.pdf</a>
 
+## 主要活動類型
+
+### 海外演出
+- 東京代々木公園「台湾フェスタ2023 ~Enjoy! TAIWAN~」演出
+
+### 商業演出
+- 新光三越文教基金會「是誰的紙娃娃」開幕記者會演出
+- 臺北、桃園、新竹、臺中、高雄等動漫節與同人誌活動舞台演出
+
+### 藝文活動
+- 臺北藝穗節參演團隊
+- 「2023臺北藝穗節 後浪警報」開幕記者會演出
+
+### 歌曲合作
+- 〈一個人的畢業歌〉獲2022新竹動漫節採用為PV歌曲
+- 遊戲《雲海：無限邊境》、《達卡拉物語》主題歌曲日文歌詞作詞
+
+### 演出活動
+- Live House歌手演出
+- Idol活動唱跳演出
+- 餐廳、餐酒館駐唱歌手演出
+
 ## 「台湾人の永琳」介紹
 來自台北的日系音樂詞曲創作歌手，獨立製作、獨立發行。同時也是動漫翻唱歌手，活躍於各大動漫類展演活動。
 
