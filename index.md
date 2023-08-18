@@ -10,7 +10,7 @@ description: 台湾人の永琳 Home
 
 ### [2023臺北藝穗節 台湾人の永琳 原創日系音樂演唱會](https://www.tpac-taipei.org/festival-fringe/program/568)
 
-![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/366270394_684911677009285_8799721046949692291_n.jpg?_nc_cat=108&cb=99be929b-59f725be&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=-CsbdBE3VAUAX8-JQI6&_nc_ht=scontent-tpe1-1.xx&oh=00_AfD6_rokkF9CsZ4FhmTfcO7k09nCtj8c0aI_Y8uVpaciQw&oe=64DE0616)
+![image](IMG_1242.jpeg)
 
 ▀▀
 
