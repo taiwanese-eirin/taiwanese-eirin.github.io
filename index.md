@@ -41,7 +41,7 @@ T恤本體顏色也是永琳的代表色——海軍藍，一件600元。
 
 #### 購買連結： [購買表單](https://docs.google.com/forms/d/e/1FAIpQLSfL4j40eHtLK-8EkZSumVPmiiS5yz_RP7J4IjrzWyoH9sZyJA/viewform?usp=sf_link)
 
-※有任何疑問請傳訊息至台湾人の永琳Facebook粉專／Instagram／LINE官方帳號，或以E-mail聯絡。
+※有任何疑問請傳訊息至台湾人の永琳Facebook粉專／Instagram／LINE官方帳號，或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡。
 
 ---
 ## Photos & Reels
