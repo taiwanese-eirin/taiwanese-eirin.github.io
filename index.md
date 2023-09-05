@@ -26,7 +26,7 @@ description: 台湾人の永琳 Home
 
 #### 活動紀錄
 
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/7xC8CHFtzIk?autoplay=0&fs=1&iv_load_policy=3&showinfo=1&rel=0&cc_load_policy=0&start=0&end=0&vq=hd1080&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small><a href="https://samla-lån-utan-uc.se/">samla-lån-utan-uc.se</a></small></div></iframe>
+<iframe src="https://www.youtube.com/embed/7xC8CHFtzIk"></iframe>
 
 ---
 ### 台湾人の永琳二代T恤
