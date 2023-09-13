@@ -6,6 +6,11 @@ description: 台湾人の永琳 About
 
 {% include_relative list.md %}
 
+![image](A9F3A85F-892E-418D-8D3D-84C5803FD206.png)
+[PDF](https://drive.google.com/file/d/1KL8KcLEe87C9JrHs9fx8KVMvUM6fNQXU/view?usp=drivesdk)
+
+
+
 ## 維基百科／ウイキペディア
 - <a href="https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E4%BA%BA%E3%81%AE%E6%B0%B8%E7%90%B3" target="_blank" rel="noopener noreferrer">台湾人の永琳 - Wikipedia（日本語Wikiページ）</a>
 
