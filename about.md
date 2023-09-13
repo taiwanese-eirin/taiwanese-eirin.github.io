@@ -7,7 +7,7 @@ description: 台湾人の永琳 About
 {% include_relative list.md %}
 
 ![image](A9F3A85F-892E-418D-8D3D-84C5803FD206.png)
-[PDF](https://drive.google.com/file/d/1KL8KcLEe87C9JrHs9fx8KVMvUM6fNQXU/view?usp=drivesdk)
+- [PDF](https://drive.google.com/file/d/1KL8KcLEe87C9JrHs9fx8KVMvUM6fNQXU/view?usp=drivesdk)
 
 
 
