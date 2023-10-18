@@ -14,16 +14,20 @@ description: 台湾人の永琳 Home
 
 錯過但想看用（半套）V皮和 [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC?si=kxbNvJwjRlW3foNs) 合作的永琳的話，快去西西莉的頻道看直播的回放吧～
 
+#### 直播回放
+
 <iframe src="https://www.youtube.com/embed/i-VxEPFifJ0"></iframe>
 
 ---
+### 「你就是那道唯一響起的旋律」無線藍牙主動降噪耳機
+
 ![image](F5D2F79F-E6D6-4EF7-8261-35A4128658D5.jpeg)
 
 > 「你就是那道唯一響起的旋律」
 
 來自〈一個人的畢業歌〉的歌詞，做成了最適合的週邊。
 
-### 「你就是那道唯一響起的旋律」無線藍牙主動降噪耳機
+#### 詳細資訊
 
 - Bluetooth標準：5.3
 - 充電：USB Type-C
