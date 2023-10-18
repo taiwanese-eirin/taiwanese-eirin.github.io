@@ -8,6 +8,15 @@ description: 台湾人の永琳 Home
 
 ## News
 
+### 一日Vtuber
+
+沒想過永琳會以會動的二次元的形象出現在Vtuber的頻道吧！
+
+錯過但想看用（半套）V皮和 [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC?si=kxbNvJwjRlW3foNs) 合作的永琳的話，快去西西莉的頻道看直播的回放吧～
+
+<iframe src="https://www.youtube.com/embed/jNQXAC9IVRw"></iframe>
+
+---
 ![image](F5D2F79F-E6D6-4EF7-8261-35A4128658D5.jpeg)
 
 > 「你就是那道唯一響起的旋律」
@@ -24,6 +33,7 @@ description: 台湾人の永琳 Home
   
     「你就是那道唯一響起的旋律」Logo以雷射印刷方式印在外殼上摸起來是立體的質感，比照片要美很多而且耐磨不容易掉。
 
+---
 ### 2023臺北藝穗節 台湾人の永琳 原創日系音樂演唱會
 
 ![image](IMG_1242.jpeg)
