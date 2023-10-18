@@ -9,11 +9,11 @@ description: 台湾人の永琳 Home
 ## News
 
 ### 一日Vtuber
-#### 活動記錄
+#### 節目回放
 
 <iframe src="https://www.youtube.com/embed/i-VxEPFifJ0"></iframe>
 
-#### 活動介紹
+#### 節目介紹
 
 沒想過永琳會以會動的二次元的形象出現在Vtuber的頻道吧！
 
