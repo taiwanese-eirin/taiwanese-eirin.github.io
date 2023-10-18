@@ -14,7 +14,7 @@ description: 台湾人の永琳 Home
 
 錯過但想看用（半套）V皮和 [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC?si=kxbNvJwjRlW3foNs) 合作的永琳的話，快去西西莉的頻道看直播的回放吧～
 
-<iframe src="https://www.youtube.com/embed/jNQXAC9IVRw"></iframe>
+<iframe src="https://www.youtube.com/embed/i-VxEPFifJ0"></iframe>
 
 ---
 ![image](F5D2F79F-E6D6-4EF7-8261-35A4128658D5.jpeg)
