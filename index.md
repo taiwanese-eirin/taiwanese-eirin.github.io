@@ -12,7 +12,7 @@ description: 台湾人の永琳 Home
 
 沒想過永琳會以會動的二次元的形象出現在Vtuber的頻道吧！
 
-錯過但想看用（半套）V皮和 [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC?si=kxbNvJwjRlW3foNs) 合作的永琳的話，快去西西莉的頻道看直播的回放吧～
+錯過想看或是想回味用（半套）V皮和 [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC?si=kxbNvJwjRlW3foNs) 合作的永琳的話，快去西西莉的頻道看直播的回放吧～
 
 #### 直播回放
 
