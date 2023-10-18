@@ -10,13 +10,11 @@ description: 台湾人の永琳 Home
 
 ### 一日Vtuber
 
+<iframe src="https://www.youtube.com/embed/i-VxEPFifJ0"></iframe>
+
 沒想過永琳會以會動的二次元的形象出現在Vtuber的頻道吧！
 
 錯過想看或是想回味用（半套）V皮和 [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC?si=kxbNvJwjRlW3foNs) 合作的永琳的話，快去西西莉的頻道看直播的回放吧～
-
-#### 直播回放
-
-<iframe src="https://www.youtube.com/embed/i-VxEPFifJ0"></iframe>
 
 ---
 ### 〈一個人的畢業歌〉主題無線藍牙降噪耳機
