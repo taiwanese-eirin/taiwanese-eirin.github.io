@@ -9,6 +9,7 @@ description: 台湾人の永琳 Home
 ## News
 
 ### 一日Vtuber
+#### 直播回放
 
 <iframe src="https://www.youtube.com/embed/i-VxEPFifJ0"></iframe>
 
@@ -18,6 +19,7 @@ description: 台湾人の永琳 Home
 
 ---
 ### 2023臺北藝穗節 台湾人の永琳 原創日系音樂演唱會活動記錄
+#### 活動記錄
 
 <iframe src="https://www.youtube.com/embed/7xC8CHFtzIk"></iframe>
 
