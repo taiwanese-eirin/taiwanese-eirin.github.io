@@ -6,6 +6,13 @@ description: 台湾人の永琳 Goods
 
 {% include_relative list.md %}
 
+### 台湾人の永琳的通販商店：[7-11賣貨便](https://myship.7-11.com.tw/general/detail?id=GM2310205511905)
+
+※通販一律取貨付款，需付運費。
+
+※有任何疑問請傳訊息至台湾人の永琳Facebook粉專／Instagram／LINE官方帳號，或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡。
+
+---
 ### 台湾人の永琳二代T恤
 
 ![image](https://lh4.googleusercontent.com/tH6trOkOBmj-5-tltmVNyNTmERzFI1l6CGgveYEtcaOai2572AXDcVGA029JLvn5O_qzEX7BYWNyN7XWFYortbgTrZQlgr6aoXzGK5xejHLQummzSmAv2BfLyrpgx8G9ve5sLOrxBtqY-5P3bS1mQwQ28VzLZQ)
@@ -16,9 +23,7 @@ description: 台湾人の永琳 Goods
 
 T恤本體顏色也是永琳的代表色——海軍藍，一件600元。
 
-#### 購買連結： [7-11賣貨便](https://myship.7-11.com.tw/general/detail?id=GM2310205511905)
-
-※有任何疑問請傳訊息至台湾人の永琳Facebook粉專／Instagram／LINE官方帳號，或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡。
+- 購買方式：通販商店|事先聯絡物販領取|現場物販下單再領取
 
 ---
 ### 〈一個人的畢業歌〉主題無線藍牙降噪耳機
