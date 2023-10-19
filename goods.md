@@ -16,7 +16,7 @@ description: 台湾人の永琳 Goods
 
 T恤本體顏色也是永琳的代表色——海軍藍，一件600元。
 
-#### 購買連結： [購買表單](https://docs.google.com/forms/d/e/1FAIpQLSfL4j40eHtLK-8EkZSumVPmiiS5yz_RP7J4IjrzWyoH9sZyJA/viewform?usp=sf_link)
+#### 購買連結： [7-11賣貨便](https://myship.7-11.com.tw/general/detail?id=GM2310205511905)
 
 ※有任何疑問請傳訊息至台湾人の永琳Facebook粉專／Instagram／LINE官方帳號，或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡。
 
@@ -32,7 +32,7 @@ T恤本體顏色也是永琳的代表色——海軍藍，一件600元。
 
 - Bluetooth標準：5.3
 - 充電：USB Type-C
-- 兌換方式：集點30點（集滿3張集點卡，物販每200元可以LINE點數卡集1點）
+- 兌換方式：集點30點（集滿3張集點卡，現場物販每200元可以LINE點數卡集1點）※請事先聯絡確認在哪一場演出要領取
 - 產品介紹：
     很有質感摸起來很舒服的霧面充電盒質感，和清晰的音質。
   
