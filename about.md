@@ -47,13 +47,13 @@ description: 台湾人の永琳 About
 
 ### 節目出演
 - 麥卡貝音樂頻道「學生天團瘋音樂」
-  - [2022/9/10](https://youtu.be/-Edg4jjzwvw?si=kjZZIXxKF5iZc6rT)
-  - [2022/12/24](https://youtu.be/mAS5O02slUI?si=CiY5s2HD26mHgypo)
-  - [2023/7/22](https://youtu.be/S0QUCCuNdRI?si=j0CqGopIsK06W3LO)
+  - [2022-09-10](https://youtu.be/-Edg4jjzwvw?si=kjZZIXxKF5iZc6rT)
+  - [2022-12-24](https://youtu.be/mAS5O02slUI?si=CiY5s2HD26mHgypo)
+  - [2023-07-22](https://youtu.be/S0QUCCuNdRI?si=j0CqGopIsK06W3LO)
 
 ### 網路直播
 - 臺灣Vtuber「西西莉」特別直播節目「CZ想聽搖籃曲」來賓、歌曲演唱（Live2D出演）
-  - [2023/10/13](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7)
+  - [2023-10-13](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7)
 
 ### 各種活動出演
 - Live House活動
