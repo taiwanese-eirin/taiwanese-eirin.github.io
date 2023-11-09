@@ -50,8 +50,9 @@ description: 台湾人の永琳 About
   - [2023-07-22](https://youtu.be/S0QUCCuNdRI?si=j0CqGopIsK06W3LO)
 
 ### Youtube
-- Vtuber 西西莉「CZ想聽搖籃曲」來賓（Live2D出演） [直播回放](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7)
-- [台湾人の永琳 Youtube Channel](https://youtube.com/@TaiwaneseEirin_)
+- Vtuber 西西莉「CZ想聽搖籃曲」
+  -  [2023-10-13](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7) （Live2D出演）
+- 台湾人の永琳 [Youtube Channel](https://youtube.com/@TaiwaneseEirin_)
   - 原創歌曲MV > [詳細](works.html)
   - 歌曲 Cover
     - [【メイドインアビス】かたち](https://youtu.be/OldbvZGfKwQ?si=0RjvuckwlrXCCtw0)
