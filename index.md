@@ -28,7 +28,7 @@ description: 台湾人の永琳 Home
 ---
 ### 一日Vtuber
 
-<iframe src="https://www.youtube.com/embed/i-VxEPFifJ0"></iframe>
+<iframe src="https://www.youtube.com/embed/i-VxEPFifJ0" width="100%"></iframe>
 
 > Youtube [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC)
 
@@ -65,7 +65,7 @@ description: 台湾人の永琳 Home
 
 #### 活動記錄影片
 
-<iframe src="https://www.youtube.com/embed/7xC8CHFtzIk"></iframe>
+<iframe src="https://www.youtube.com/embed/7xC8CHFtzIk" width="100%" ></iframe>
 
 ---
 ### 台湾フェスタ2023 ~Enjoy! TAIWAN~
