@@ -24,16 +24,16 @@ description: 台湾人の永琳 About
 ---
 ## 主要活動
 
-### 海外活動出演
+### 海外出演
 - 台湾・台中夜市2023（名古屋・栄）
 - 台湾フェスタ2023 ~Enjoy! TAIWAN~（東京・代々木公園）
 
-### 商業活動出演
+### 活動出演
 - 新光三越文教基金會「是誰的紙娃娃」開幕記者會
 - 誠品生活西門「藝享空間」
 - 開拓動漫祭、漫畫博覽會、國際動漫節
 
-### 藝文活動
+### 文化活動
 - 2023臺北藝穗節 後浪警報
 
 ### 歌曲合作
@@ -49,12 +49,14 @@ description: 台湾人の永琳 About
   - [2022-12-24](https://youtu.be/mAS5O02slUI?si=CiY5s2HD26mHgypo)
   - [2023-07-22](https://youtu.be/S0QUCCuNdRI?si=j0CqGopIsK06W3LO)
 
-### Youtube 活動
+### Youtube
 - Vtuber 西西莉「CZ想聽搖籃曲」來賓（Live2D出演） [直播回放](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7)
-- 歌曲 Cover
-  - [【メイドインアビス】かたち](https://youtu.be/OldbvZGfKwQ?si=0RjvuckwlrXCCtw0)
-  - [【マクロス F】トライアングラー（Karei & 永琳）](https://youtu.be/1Xv_skJEwHQ?si=a-3YU2YJv6IG3Adb)
-  - [【鬼滅の刃】紅蓮華](https://youtu.be/UG6G5kGtgv8?si=yLoYkY3RF5Wz8J_e)
+- [台湾人の永琳 Youtube Channel](https://youtube.com/@TaiwaneseEirin_)
+  - 原創歌曲MV > [詳細](works.html)
+  - 歌曲 Cover
+    - [【メイドインアビス】かたち](https://youtu.be/OldbvZGfKwQ?si=0RjvuckwlrXCCtw0)
+    - [【マクロス F】トライアングラー（Karei & 永琳）](https://youtu.be/1Xv_skJEwHQ?si=a-3YU2YJv6IG3Adb)
+    - [【鬼滅の刃】紅蓮華](https://youtu.be/UG6G5kGtgv8?si=yLoYkY3RF5Wz8J_e)
 
 ### 各種演出活動
 - Live House活動
