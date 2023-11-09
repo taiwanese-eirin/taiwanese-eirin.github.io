@@ -8,7 +8,7 @@ description: 台湾人の永琳 Works
 
 ## Songs
 
-| ※ Click Cover<br/>-> MV | ※ Click Title<br/>-> Streaming | |
+| | |
 | :---: | :---: | :---: |
 | <a href="https://youtu.be/6oyVGfpnmpo" target="_blank" rel="noopener noreferrer">![恋の遊園地](img/single_6.jpg) </a> | <a href="https://www.soundscape.net/a/42620" target="_blank" rel="noopener noreferrer">台湾人の永琳 6th Single<br/>恋の遊園地</a><br/><br/>[Live Dance Video](https://youtu.be/1qpskJReXzM?si=-wIfeHdBJv_4RmIM) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQvU80ScETkvdbYgpnG_eyLm2LN6QQopxdL0YyCiSMncq8r6IlhvdtYptd005suVskpKl7EVLHeZYQb/pub) |
 | <a href="https://youtu.be/5ocMN4_O8iU" target="_blank" rel="noopener noreferrer">![墨色海洋](img/single_5.jpg) </a> | <a href="https://www.soundscape.net/a/41364" target="_blank" rel="noopener noreferrer">台湾人の永琳 5th Single<br/>墨色海洋</a> | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTjnQ174PVztlAoOlMWNOUaTORe5fSJdX-yMXKlj43a7K-SYrDgjHfQII6_LbNdmFA15GDoOe0VszF_/pub) |
@@ -16,6 +16,7 @@ description: 台湾人の永琳 Works
 | <a href="https://youtu.be/8SHSo3lrphU" target="_blank" rel="noopener noreferrer">![一個人的畢業歌](img/single_3.jpg)</a> | <a href="https://www.soundscape.net/a/26082" target="_blank" rel="noopener noreferrer">台湾人の永琳 3rd Single<br/>一個人的畢業歌</a> | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQx7ZH-fum4l6_mMU06VaT-Xe4nKUl6kDjrKEziUE5m5qivi1s3haIM_3EEJqBJI2Lw25liflivMboj/pub) |
 | <a href="https://youtu.be/Spdm6Rdkd8A" target="_blank" rel="noopener noreferrer">![Do You ワナ Touch Me](img/single_2.jpg)</a> | <a href="https://www.soundscape.net/a/21065" target="_blank" rel="noopener noreferrer">台湾人の永琳 2nd Single<br/>Do You ワナ Touch Me</a> | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSJ5zLX-Lge0naOpr8bKoYfzp_poGPGSiwEQmMyoeQ7th-Y-pJJ-nKqxs2GGu-yUlnDK--Ivdg1VNm/pub) |
 | <a href="https://youtu.be/2faotuVptyk" target="_blank" rel="noopener noreferrer">![生まれ変わる](img/single_1.jpg)</a> | <a href="https://www.soundscape.net/a/16698" target="_blank" rel="noopener noreferrer">台湾人の永琳 1st Single<br/>生まれ変わる</a> | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSdbYT29alt0jSFXWw9gdIhjEgB6gNBV5vq6T_w6BnkGfcslg5PRlgVTi9L23qu4nRAcOSS4gUmJLL/pub) |
+| ※ Click Cover<br/>-> MV | ※ Click Title<br/>-> Streaming | |
 
 ###  Stories
 
