@@ -24,11 +24,11 @@ description: 台湾人の永琳 About
 ---
 ## 主要活動類型
 
-### 海外演出
+### 海外出演
 - 名古屋「台湾・台中夜市2023 in 名古屋」舞台演出
 - 東京「台湾フェスタ2023 ~Enjoy! TAIWAN~」舞台演出
 
-### 商業演出
+### 商業出演
 - 新光三越文教基金會「是誰的紙娃娃」開幕記者會
 - 誠品生活西門「藝享空間」
 - 開拓動漫祭、漫畫博覽會、國際動漫節
@@ -41,19 +41,25 @@ description: 台湾人の永琳 About
 
 ### 作品提供
 - 《雲海：無限邊境》 (iOS/Android) 主題曲作詞（日文）
+  - [PV](https://www.youtube.com/watch?v=HafK8DmClTo)
 - 《達卡拉物語》 (iOS/Android) 主題曲作詞（日文）
+  - [PV](https://www.youtube.com/watch?v=AzUZRHQiAp4)
 
 ### 節目出演
-- 麥卡貝音樂頻道「學生天團瘋音樂」網路節目出演、歌曲演唱
+- 麥卡貝音樂頻道「學生天團瘋音樂」
+  - [2022/9/10](https://youtu.be/-Edg4jjzwvw?si=kjZZIXxKF5iZc6rT)
+  - [2022/12/24](https://youtu.be/mAS5O02slUI?si=CiY5s2HD26mHgypo)
+  - [2023/7/22](https://youtu.be/S0QUCCuNdRI?si=j0CqGopIsK06W3LO)
 
 ### 網路直播
 - 臺灣Vtuber「西西莉」特別直播節目「CZ想聽搖籃曲」來賓、歌曲演唱（Live2D出演）
+  - [2023/10/13](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7)
 
-### 各種演出活動
-- Live House演出
+### 各種活動出演
+- Live House活動
 - Idol活動
 - 餐廳、餐酒館駐唱
-- 街頭藝人演出
+- 街頭演唱
 
 ---
 ## 參與作品經歷
