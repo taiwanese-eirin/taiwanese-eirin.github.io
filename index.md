@@ -4,6 +4,11 @@ title: Home
 description: 台湾人の永琳 Home
 ---
 
+<style type="text/css">
+.full-width-youtube-video {position: relative; padding-bottom: 56.25%; height: 0;}
+.full-width-youtube-video iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+</style>
+
 {% include_relative list.md %}
 
 ## News
@@ -28,7 +33,9 @@ description: 台湾人の永琳 Home
 ---
 ### 一日Vtuber
 
-<iframe src="https://www.youtube.com/embed/i-VxEPFifJ0" width="100%" height="100%"></iframe>
+<div class="full-width-youtube-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/i-VxEPFifJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 > Youtube [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC)
 
@@ -65,7 +72,9 @@ description: 台湾人の永琳 Home
 
 #### 活動記錄影片
 
-<iframe src="https://www.youtube.com/embed/7xC8CHFtzIk" width="100%" height="100%"></iframe>
+<div class="full-width-youtube-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/7xC8CHFtzIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 ### 台湾フェスタ2023 ~Enjoy! TAIWAN~
