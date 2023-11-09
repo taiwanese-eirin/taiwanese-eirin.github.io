@@ -35,8 +35,6 @@ description: 台湾人の永琳 Home
 </div>
 ---
 
-<! -- ^^^This line would disappear after Youtube div -->
-
 > Youtube [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC)
 
 沒想過永琳會以會動的二次元的形象出現在Vtuber的頻道吧！
@@ -75,8 +73,6 @@ description: 台湾人の永琳 Home
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/7xC8CHFtzIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
-
-<! -- ^^^This line would disappear after Youtube div -->
 
 ---
 ### 台湾フェスタ2023 ~Enjoy! TAIWAN~
