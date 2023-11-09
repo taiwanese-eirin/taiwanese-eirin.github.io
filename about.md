@@ -18,8 +18,8 @@ description: 台湾人の永琳 About
 ---
 ## 圖文簡介／パンフレット
 
-![image](9D6A9DE9-C1C1-4B5F-90DC-E329EFA971DE.png)
-- [PDF](https://drive.google.com/file/d/1wMnChr0hOj-qvHdp0ZpIROWFTe9lZ3WG/view?usp=drivesdk)
+![image](99A46A4A-5FA3-42E6-B152-D76E2AF799FF.png)
+- [PDF](https://drive.google.com/file/d/1KCuPhEq15-DvtC2G8t-aCeaHxBOHbqTl/view?usp=drivesdk)
 
 ---
 ## 主要活動
