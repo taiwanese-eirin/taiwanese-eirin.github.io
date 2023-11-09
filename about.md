@@ -22,7 +22,7 @@ description: 台湾人の永琳 About
 - [PDF](https://drive.google.com/file/d/1fh4-ipR5KZSu-fUOIQjkIAPWf3dyoo1J/view?usp=drivesdk)
 
 ---
-## 主要活動類型
+## 主要活動
 
 ### 海外演出
 - 台湾・台中夜市2023（名古屋・栄）
