@@ -49,14 +49,17 @@ description: 台湾人の永琳 About
   - [2022-12-24](https://youtu.be/mAS5O02slUI?si=CiY5s2HD26mHgypo)
   - [2023-07-22](https://youtu.be/S0QUCCuNdRI?si=j0CqGopIsK06W3LO)
 
-### 網路直播
-- 臺灣Vtuber「西西莉」特別直播節目「CZ想聽搖籃曲」來賓、歌曲演唱（Live2D出演）
-  - [2023-10-13](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7)
+### Youtube 活動
+- Vtuber 西西莉「CZ想聽搖籃曲」來賓（Live2D出演） [直播回放](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7)
+- 歌曲 Cover
+  - [【メイドインアビス】かたち](https://youtu.be/OldbvZGfKwQ?si=0RjvuckwlrXCCtw0)
+  - [【マクロス F】トライアングラー（Karei & 永琳）](https://youtu.be/1Xv_skJEwHQ?si=a-3YU2YJv6IG3Adb)
+  - [【鬼滅の刃】紅蓮華](https://youtu.be/UG6G5kGtgv8?si=yLoYkY3RF5Wz8J_e)
 
 ### 各種演出活動
 - Live House活動
 - Idol活動
-- 餐廳、餐酒館駐唱
+- 餐廳、餐酒館、女僕咖啡駐唱
 - 街頭演唱
 
 ---
