@@ -40,8 +40,8 @@ description: 台湾人の永琳 About
 - 原創單曲〈一個人的畢業歌〉獲2022新竹動漫節採用為PV音樂
 
 ### 作品提供
-- 《雲海：無限邊境》（iOS/Android）主題歌 作詞（日文）[（PV）](https://www.youtube.com/watch?v=HafK8DmClTo)
-- 《達卡拉物語》（iOS/Android）主題歌 作詞（日文）[（PV）](https://www.youtube.com/watch?v=AzUZRHQiAp4)
+- 《雲海：無限邊境》 (iOS/Android) 主題歌 作詞（日文） [PV](https://www.youtube.com/watch?v=HafK8DmClTo)
+- 《達卡拉物語》 (iOS/Android) 主題歌 作詞（日文） [PV](https://www.youtube.com/watch?v=AzUZRHQiAp4)
 
 ### 節目出演
 - 麥卡貝音樂頻道「學生天團瘋音樂」
