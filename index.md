@@ -8,6 +8,7 @@ description: 台湾人の永琳 Home
 
 ## News
 
+---
 ### 台湾・台中夜市2023 in 名古屋
 
 ![image](img/IMG_2049.jpeg)
@@ -67,7 +68,6 @@ description: 台湾人の永琳 Home
 <iframe src="https://www.youtube.com/embed/7xC8CHFtzIk"></iframe>
 
 ---
-
 ### 台湾フェスタ2023 ~Enjoy! TAIWAN~
 
 ![image](img/13C9312D-AF3E-4A2F-8478-723243DC2484.png)
