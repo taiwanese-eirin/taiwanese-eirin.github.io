@@ -8,7 +8,7 @@ description: 台湾人の永琳 Works
 
 ## Songs
 
-| | |
+|       |       |       |
 | :---: | :---: | :---: |
 | <a href="https://youtu.be/6oyVGfpnmpo" target="_blank" rel="noopener noreferrer">![恋の遊園地](img/single_6.jpg) </a> | <a href="https://www.soundscape.net/a/42620" target="_blank" rel="noopener noreferrer">台湾人の永琳 6th Single<br/>恋の遊園地</a><br/><br/>[Live Dance Video](https://youtu.be/1qpskJReXzM?si=-wIfeHdBJv_4RmIM) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQvU80ScETkvdbYgpnG_eyLm2LN6QQopxdL0YyCiSMncq8r6IlhvdtYptd005suVskpKl7EVLHeZYQb/pub) |
 | <a href="https://youtu.be/5ocMN4_O8iU" target="_blank" rel="noopener noreferrer">![墨色海洋](img/single_5.jpg) </a> | <a href="https://www.soundscape.net/a/41364" target="_blank" rel="noopener noreferrer">台湾人の永琳 5th Single<br/>墨色海洋</a> | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTjnQ174PVztlAoOlMWNOUaTORe5fSJdX-yMXKlj43a7K-SYrDgjHfQII6_LbNdmFA15GDoOe0VszF_/pub) |
