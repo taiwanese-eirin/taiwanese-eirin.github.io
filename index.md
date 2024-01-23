@@ -17,6 +17,8 @@ description: 台湾人の永琳 Home
 
 > 大阪・新世界
 
+[公式サイト](https://shinsekaismailemusicfestival.simdif.com/)
+
 2024第一場海外演出會在大阪參加音樂祭喔！
 
 不只是第一次參加海外音樂祭演出，這也是我第一次參加音樂祭活動，很高興可以入選、也很感謝主辦單位在60組100名以上的演出者之中選擇我放在海報上（痛哭流涕）
@@ -29,6 +31,8 @@ description: 台湾人の永琳 Home
 ![image](img/IMG_2049.jpeg)
 
 > 名古屋・栄
+
+[台湾・台中夜市 2023 in 名古屋 ステージ アーティスト](https://kato-hidehiko.asia/taichung-yeshi-stage/)
 
 感謝台湾・台中夜市2023実行委員会的邀請。
 
@@ -93,6 +97,8 @@ description: 台湾人の永琳 Home
 ![image](img/13C9312D-AF3E-4A2F-8478-723243DC2484.png)
 
 > 東京・代々木公園
+
+[台湾フェスタ2023出演者情報](https://taiwan-festa.com/performer2023/)
 
 第一次參加海外演出！
 
