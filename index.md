@@ -94,7 +94,7 @@ description: 台湾人の永琳 Home
 ---
 ### 台湾フェスタ2023 ~Enjoy! TAIWAN~
 
-![image](img/13C9312D-AF3E-4A2F-8478-723243DC2484.png)
+![image](https://drive.google.com/uc?id=1n7N_75t_uCg--bo5ZVlimu4nU31PSnAg)
 
 > 東京・代々木公園
 
