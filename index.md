@@ -13,7 +13,7 @@ description: 台湾人の永琳 Home
 ---
 ### 新世界 なにわの音雛祭 ～naniwa no ohinamatsuri～
 
-![image](https://drive.google.com/thumbnail?id=1S2yWexzWg1w4fTo6DzcuigyD18NgHxTG=w1000)
+![image](https://drive.google.com/thumbnail?id=1S2yWexzWg1w4fTo6DzcuigyD18NgHxTG&sz=w1000)
 
 > 大阪・新世界
 
@@ -28,7 +28,7 @@ description: 台湾人の永琳 Home
 ---
 ### 台湾・台中夜市2023 in 名古屋
 
-![image](https://drive.google.com/thumbnail?id=1vXQjn8Kb1WEQk1mCwMWDcNqIOUHIxjJl=w1000)
+![image](https://drive.google.com/thumbnail?id=1vXQjn8Kb1WEQk1mCwMWDcNqIOUHIxjJl&sz=w1000)
 
 > 名古屋・栄
 
@@ -42,7 +42,7 @@ description: 台湾人の永琳 Home
 
 很難得有這個機會可以收到日本觀衆直接的回饋，非常感謝主辦的邀請與觀衆的支持，謝謝你們喜歡我的歌！
 
-![image](https://drive.google.com/thumbnail?id=127m5qKkfiRXQ2O1l3j-EqzXekDsuUYTN=w1000)
+![image](https://drive.google.com/thumbnail?id=127m5qKkfiRXQ2O1l3j-EqzXekDsuUYTN&sz=w1000)
 
 ---
 ### 一日Vtuber
