@@ -30,7 +30,7 @@ description: 台湾人の永琳 Goods
 ※ **庫存：1**（需要保留請以訊息或E-mail聯絡）\
 ※ **贈品兌換完後可能不會再生產**，把握機會集點兌換吧！
 
-![image](img/F5D2F79F-E6D6-4EF7-8261-35A4128658D5.jpeg)
+![image](https://drive.google.com/thumbnail?id=1OjzcKKUn5a9XAC2af9Fzykt3mP0ftFRV&sz=w1000)
 
 > 「*你就是那道唯一響起的旋律*」\
 > 來自〈一個人的畢業歌〉的靈感，做成最適合這句歌詞的周邊回饋給一直支持我的你們
