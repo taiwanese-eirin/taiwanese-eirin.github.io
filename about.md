@@ -18,7 +18,7 @@ description: 台湾人の永琳 About
 ---
 ## 圖文簡介／パンフレット
 
-![image](img/Pamphlet_20240312.png)
+![image](https://drive.google.com/uc?id=1SFpuTUfRb_iZlQ2y1xcUOY0tZ_do92tN)
 - [PDF](https://drive.google.com/file/d/1Uiy9Pe61uQdBVr6cfFXc_m1TnBV4k9vh/view?usp=drivesdk)
 
 ---
