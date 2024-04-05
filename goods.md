@@ -27,7 +27,7 @@ description: 台湾人の永琳 Goods
 ---
 ### [集點周邊]〈一個人的畢業歌〉主題無線藍牙降噪耳機
 
-※ 已結束
+※ 已結束 \
 ※ 贈品兌換完後可能不會再生產
 
 ![image](https://drive.google.com/thumbnail?id=1OjzcKKUn5a9XAC2af9Fzykt3mP0ftFRV&sz=w1000)
