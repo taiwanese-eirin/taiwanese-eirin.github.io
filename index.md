@@ -29,9 +29,9 @@ description: 台湾人の永琳 Home
 
 👇🏻Time Table👇🏻
 
-![image](https://drive.google.com/thumbnail?id=1ySZvXIPb3vd4UOTOcPfpARk7Mfatl2YG&sz=w600)
-![image](https://drive.google.com/thumbnail?id=1mLfucoHyo1e3TlHKuuV8bziE57xvKQX3&sz=w600)
-![image](https://drive.google.com/thumbnail?id=1i5KhXEqe-p-vyXjK_J1wcCXTrZTQXG2O&sz=w600)
+![image](https://drive.google.com/thumbnail?id=1ySZvXIPb3vd4UOTOcPfpARk7Mfatl2YG&sz=w300)
+![image](https://drive.google.com/thumbnail?id=1mLfucoHyo1e3TlHKuuV8bziE57xvKQX3&sz=w300)
+![image](https://drive.google.com/thumbnail?id=1i5KhXEqe-p-vyXjK_J1wcCXTrZTQXG2O&sz=w300)
 
 ---
 ### 新世界 なにわの音雛祭 ～naniwa no ohinamatsuri～
