@@ -8,6 +8,12 @@ description: 台湾人の永琳 Home
 
 {% include_relative youtube_style.md %}
 
+## Photos & Reels
+
+{% include_relative ig.md %}
+
+---
+
 ## News
 ---
 ### 台湾フェスティバル™TOKYO2024
@@ -132,8 +138,3 @@ description: 台湾人の永琳 Home
 我的原創歌曲有中文也有日文，這次都有帶給日本的觀衆聽，希望大家喜歡我的歌曲，也希望可以再到日本演出。
 
 感謝主辦單位和工作人員的照顧，謝謝來現場看我的觀衆！
-
----
-## Photos & Reels
-
-{% include_relative ig.md %}
