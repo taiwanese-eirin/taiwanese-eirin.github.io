@@ -9,6 +9,29 @@ description: 台湾人の永琳 Home
 {% include_relative youtube_style.md %}
 
 ## News
+---
+### 台湾フェスティバル™TOKYO2024
+![image](https://drive.google.com/thumbnail?id=1K-UdnbloKpD5MiDCdIm-ZdjJTQFnrSjH&sz=w1000)
+
+> 東京．上野
+
+開心的消息!!!!我又要去日本演出啦🥹👏🏻👏🏻👏🏻
+
+6月在東京上野的「台湾フェスティバル」
+
+我在20、21、23這三天有演出！
+
+話說我報名的時候確實是勾每天都可以，
+
+但沒想到會安排三天演出😂
+
+時間充足，可以把原創曲唱一輪了👍🏻
+
+👇🏻Time Table👇🏻
+
+![image](https://drive.google.com/thumbnail?id=1ySZvXIPb3vd4UOTOcPfpARk7Mfatl2YG&sz=w600)
+![image](https://drive.google.com/thumbnail?id=1mLfucoHyo1e3TlHKuuV8bziE57xvKQX3&sz=w600)
+![image](https://drive.google.com/thumbnail?id=1i5KhXEqe-p-vyXjK_J1wcCXTrZTQXG2O&sz=w600)
 
 ---
 ### 新世界 なにわの音雛祭 ～naniwa no ohinamatsuri～
