@@ -16,6 +16,31 @@ description: 台湾人の永琳 Home
 
 ## News
 ---
+### 秋葉原GALAXY AKIBAドリームライブ
+
+<div class="full-width-youtube-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJ5lGiev-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+---
+
+> 東京・秋葉原
+
+初めて日本のライブハウスでライブ出演しましたが、
+照明・音響良すぎて感動して涙出そう🥹
+
+秋葉原GALAXYありがとうございます❤️💕
+
+照明・音響さんありがとうございます😭
+
+第一次在日本的Live House演出，音響和燈光真的太讓人感動了😭
+
+特別剪輯了活動的記錄讓大家欣賞一下🥹
+
+（有些部分我在台上演出也不知道，是看錄影才知道的，真的太美了😭）
+
+真的非常感謝PA和燈光老師，演出後聊天也很開心，希望下次去東京還能再去演出💕
+
+---
 ### 台湾フェスティバル™TOKYO2024
 ![image](https://drive.google.com/thumbnail?id=1K-UdnbloKpD5MiDCdIm-ZdjJTQFnrSjH&sz=w1000)
 
