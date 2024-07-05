@@ -10,16 +10,10 @@ description: 台湾人の永琳 About
 - [台湾人の永琳 - Wikipedia（日本語Wikiページ）](https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E4%BA%BA%E3%81%AE%E6%B0%B8%E7%90%B3)
 
 ---
-## DM／EPK
+## DM（日本語）
 
-- [DM (日本語)](https://drive.google.com/file/d/1BxbYQYn6zvAEVEcqzP1WXozqOR6vYsG8/view?usp=drivesdk)
-- [EPK (English)](https://drive.google.com/file/d/1NyxnKKcriiM8BVkY_Wn8OL0dlkAeAo0P/view?usp=drivesdk)
-
----
-## 圖文簡介／パンフレット
-
-[![image](https://drive.google.com/thumbnail?id=1SFpuTUfRb_iZlQ2y1xcUOY0tZ_do92tN&sz=w1000)](https://drive.google.com/file/d/1Uiy9Pe61uQdBVr6cfFXc_m1TnBV4k9vh/view?usp=drivesdk)
-- [PDF](https://drive.google.com/file/d/1Uiy9Pe61uQdBVr6cfFXc_m1TnBV4k9vh/view?usp=drivesdk)
+[![image](https://drive.google.com/thumbnail?id=1cawvlcyFrPocQRPUsXoVCjWLK-4uQVXj&sz=w1000)](https://drive.google.com/file/d/1cawvlcyFrPocQRPUsXoVCjWLK-4uQVXj/view?usp=drivesdk)
+- [PDF](https://drive.google.com/file/d/1ssnQf8r73fx58_tser6kSX0nY3Oc_qQb/view?usp=drivesdk)
 
 ---
 ## 主要活動
