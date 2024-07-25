@@ -16,6 +16,25 @@ description: 台湾人の永琳 Home
 
 ## News
 ---
+### 台湾フェスタ2024
+
+![image](https://drive.google.com/thumbnail?id=1vY08lEuyQ7u39YKR1-0L6jMXm3jzYuhf&sz=w1000)
+
+> 東京・代々木公園
+
+緊接著6月的東京行程，很高興7月又入選了台湾フェスタ2024主舞台的演出🥰
+
+大家來看下面這張宣傳圖!!!!我在上面!!!!很大!!!!
+
+![image](https://drive.google.com/thumbnail?id=1XGTplRgzEXxs4kTOGi4wFQ0FZMJvMLgA=w1000)
+
+也再次聯絡上次很喜歡的秋葉原GALAXY演出時的AKIBAドリームライブ主辦安排了演出活動💕
+
+最近演出之餘也開始整理自己其他興趣的坑😂
+
+之後整理好也會再跟大家分享～～
+
+---
 ### 秋葉原GALAXY AKIBAドリームライブ
 
 <div class="full-width-youtube-video">
@@ -44,7 +63,7 @@ description: 台湾人の永琳 Home
 ### 台湾フェスティバル™TOKYO2024
 ![image](https://drive.google.com/thumbnail?id=1K-UdnbloKpD5MiDCdIm-ZdjJTQFnrSjH&sz=w1000)
 
-> 東京．上野
+> 東京・上野
 
 開心的消息!!!!我又要去日本演出啦🥹👏🏻👏🏻👏🏻
 
