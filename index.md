@@ -26,7 +26,7 @@ description: 台湾人の永琳 Home
 
 大家來看下面這張宣傳圖!!!!我在上面!!!!很大!!!!
 
-![image](https://drive.google.com/thumbnail?id=1XGTplRgzEXxs4kTOGi4wFQ0FZMJvMLgA=w1000)
+![image](https://drive.google.com/thumbnail?id=1XGTplRgzEXxs4kTOGi4wFQ0FZMJvMLgA&sz=w1000)
 
 也再次聯絡上次很喜歡的秋葉原GALAXY演出時的AKIBAドリームライブ主辦安排了演出活動💕
 
