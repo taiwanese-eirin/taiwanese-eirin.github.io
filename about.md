@@ -50,12 +50,6 @@ description: 台湾人の永琳 About
 - Vtuber 西西莉「CZ想聽搖籃曲」Live 出演
   -  [2023-10-13](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7) （Live2D出演）
 
-### 各種演出活動
-- Live House演出
-- Idol活動
-- 駐唱演出
-- 街頭演唱
-
 ---
 ## 「台湾人の永琳」介紹
 來自台北的日系音樂詞曲創作歌手，獨立製作、獨立發行。同時也是動漫翻唱歌手，活躍於各大動漫類展演活動。
