@@ -16,6 +16,43 @@ description: 台湾人の永琳 Home
 
 ## News
 ---
+### ミナスマフェス２０２４
+
+![image](https://drive.google.com/thumbnail?id=1OrJ4KaCjLuUjj9pnVruCi3T-i4hc79ED&sz=w1000)
+
+> 大阪・東心斎橋・道頓堀エリア
+> 2024/11/16
+
+![image](https://drive.google.com/thumbnail?id=1IU9jKhHOrIuegIfuYo6wq1y60Iims6Nw&sz=w1000)
+
+繼3月在大阪新世界演出完後第二次的關西行程！
+
+這次參加到這麼大型的音樂祭我在Time Table都要找不到我了😂
+
+好開心可以在每次去大阪最喜歡逛的道頓堀一帶演出🥰
+
+[公式サイト](https://shinsekaismailemusicfestival.simdif.com/)
+
+---
+### 台湾・台中夜市2024 in 名古屋
+
+![image](https://drive.google.com/thumbnail?id=1oTHLmVCwEsc4wYto4-wNjyE-bOWootBp&sz=w1000)
+
+> 名古屋・栄
+> 2024/11/3
+> 2024/11/4
+
+今年也遠征名古屋參加台湾・台中夜市2024了！
+
+感謝主辦單位的邀請🥰
+
+今年也是在日本連假期間舉辦，這次我有兩天演出喔！
+
+在名古屋舉辦的台灣夜市，有很多台灣的食物和表演者，真的很精彩有機會來看看吧！
+
+[公式サイト](https://kato-hidehiko.asia/taichung-yeshi/)
+
+---
 ### 台湾フェスタ2024
 
 ![image](https://drive.google.com/thumbnail?id=1vY08lEuyQ7u39YKR1-0L6jMXm3jzYuhf&sz=w1000)
