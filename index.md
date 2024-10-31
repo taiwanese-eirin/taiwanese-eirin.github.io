@@ -15,6 +15,7 @@ description: 台湾人の永琳 Home
 ---
 
 ## News
+### 2024
 ---
 ### ミナスマフェス２０２４
 
@@ -120,7 +121,9 @@ description: 台湾人の永琳 Home
 👇🏻👇🏻👇🏻Time Table👇🏻👇🏻👇🏻
 
 ![image](https://drive.google.com/thumbnail?id=1ySZvXIPb3vd4UOTOcPfpARk7Mfatl2YG&sz=w500)
+
 ![image](https://drive.google.com/thumbnail?id=1mLfucoHyo1e3TlHKuuV8bziE57xvKQX3&sz=w500)
+
 ![image](https://drive.google.com/thumbnail?id=1i5KhXEqe-p-vyXjK_J1wcCXTrZTQXG2O&sz=w500)
 
 ---
@@ -139,86 +142,6 @@ description: 台湾人の永琳 Home
 希望2024開始可以增加更多海外演出！（當然國內也希望……）
 
 ---
-### 台湾・台中夜市2023 in 名古屋
+## Archive
 
-![image](https://drive.google.com/thumbnail?id=1vXQjn8Kb1WEQk1mCwMWDcNqIOUHIxjJl&sz=w1000)
-
-> 名古屋・栄
-
-[台湾・台中夜市 2023 in 名古屋 ステージ アーティスト](https://kato-hidehiko.asia/taichung-yeshi-stage/)
-
-感謝台湾・台中夜市2023実行委員会的邀請。
-
-這次很高興受邀到日本名古屋在「**台湾・台中夜市2023**」的舞臺上演出，在日本難得的連假期間可以演出2個時段！
-
-下午和傍晚各有30分鐘的演出時段，成功把我目前6首原創歌曲都帶上日本的舞臺了。
-
-很難得有這個機會可以收到日本觀衆直接的回饋，非常感謝主辦的邀請與觀衆的支持，謝謝你們喜歡我的歌！
-
-![image](https://drive.google.com/thumbnail?id=127m5qKkfiRXQ2O1l3j-EqzXekDsuUYTN&sz=w1000)
-
----
-### 一日Vtuber
-
-<div class="full-width-youtube-video">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/i-VxEPFifJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
----
-
-> Youtube [Cecily ch. 西西莉](https://youtube.com/@Cecily_KBC)
-
-沒想過永琳會以會動的二次元的形象出現在Vtuber的頻道吧！
-
-錯過想看或是想回味用（半套）V皮和西西莉合作的永琳的話，快去西西莉的頻道看直播的回放吧～\
-（或點上面的影片也可以直接觀看喔！）
-
-這次直播節目和西西莉聊了很多關於我的二次元形象圖、原創歌曲等等，真的是非常快樂的一段時間。
-
-很感謝西西莉的邀請、感謝收看的觀衆們！希望還能有類似的機會像這樣用不一樣的形式和大家見面。
-
----
-### 2023臺北藝穗節 台湾人の永琳 原創日系音樂演唱會
-
-![image](https://drive.google.com/thumbnail?id=1Hoab6sa7hp50jA2itbrMMeXNP54Z3Vu5&sz=w1000)
-
-> 紀州庵文學森林-古蹟「大廣間」
-> 
-> 「紀州庵」初建於1917年，原為平松家族經營的日式料亭。修復後的古蹟「大廣間」，指的是中間不落柱且開敞的空間，滿載榻榻米香氣的空間，有著交織臺灣人過往記憶與當代省思的《烏腳之謎》在此上演，其沉鬱背景與歷史場地的疊合，更凸顯出臺灣孤兒身世的頓挫與淚光。 **《台湾人の永琳》則以另一特殊的方式，描述了臺灣當代的文化混血特質。受動漫歌曲及J-pop影響的永琳，以日系風味，唱出臺灣女孩的動人心情。**
-> 
-> *（圖文：臺北表演藝術中心）*
-
-作爲藝穗節上少見的音樂節目，在紀州庵舒適的榻榻米空間舉辦自己的演唱會真的是很難得的機會。
-
-在藝穗節記者會上進行表演、在信義區百貨公司進行藝穗節快閃演出、在臺北表演藝術中心前演出，還有最後自己在紀州庵的表演都是很寶貴的經驗。
-
-原本只是想參加藝穗節辦一場演出，直到活動前夕突然發現我好像辦了一場我的個人演唱會……
-
-很高興有這個榮幸作爲藝穗團隊的一員參加2023的臺北藝穗節，希望自己沒有辜負這次藝穗節的副標題「後浪警報」，有成爲藝穗後浪的一員。
-
-謝謝臺北表演藝術中心、快閃活動負責人亮亮、所有工作人員，還有最重要的來紀州庵看我演出的你們！
-
-#### 活動記錄影片
-
-<div class="full-width-youtube-video">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/7xC8CHFtzIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
----
-
----
-### 台湾フェスタ2023 ~Enjoy! TAIWAN~
-
-![image](https://drive.google.com/thumbnail?id=1n7N_75t_uCg--bo5ZVlimu4nU31PSnAg&sz=w1000)
-
-> 東京・代々木公園
-
-[台湾フェスタ2023出演者情報](https://taiwan-festa.com/performer2023/)
-
-第一次參加海外演出！
-
-很感謝主辦台湾フェスタ実行委員会給我這個機會可以在「**台湾フェスタ2023**」舞臺上帶來我原創歌曲的演出。
-
-有觀衆是在台灣就有來看過我演出，這次知道我要去日本演出專程來代々木公園看我，真的非常開心！
-
-我的原創歌曲有中文也有日文，這次都有帶給日本的觀衆聽，希望大家喜歡我的歌曲，也希望可以再到日本演出。
-
-感謝主辦單位和工作人員的照顧，謝謝來現場看我的觀衆！
+- [2023](archive/2023.md)
