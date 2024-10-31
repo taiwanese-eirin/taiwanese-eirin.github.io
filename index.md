@@ -20,10 +20,10 @@ description: 台湾人の永琳 Home
 
 ![image](https://drive.google.com/thumbnail?id=1OrJ4KaCjLuUjj9pnVruCi3T-i4hc79ED&sz=w1000)
 
+![image](https://drive.google.com/thumbnail?id=1IU9jKhHOrIuegIfuYo6wq1y60Iims6Nw&sz=w1000)
+
 > 大阪・東心斎橋・道頓堀エリア
 > 2024/11/16
-
-![image](https://drive.google.com/thumbnail?id=1IU9jKhHOrIuegIfuYo6wq1y60Iims6Nw&sz=w1000)
 
 繼3月在大阪新世界演出完後第二次的關西行程！
 
