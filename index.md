@@ -21,6 +21,7 @@ description: 台湾人の永琳 Home
 ![image](https://drive.google.com/thumbnail?id=1OrJ4KaCjLuUjj9pnVruCi3T-i4hc79ED&sz=w1000)
 
 > 大阪・東心斎橋・道頓堀エリア
+
 > 2024/11/16
 
 繼3月在大阪新世界演出完後第二次的關西行程！
@@ -39,7 +40,9 @@ description: 台湾人の永琳 Home
 ![image](https://drive.google.com/thumbnail?id=1oTHLmVCwEsc4wYto4-wNjyE-bOWootBp&sz=w1000)
 
 > 名古屋・栄
+
 > 2024/11/3
+
 > 2024/11/4
 
 今年也遠征名古屋參加台湾・台中夜市2024了！
