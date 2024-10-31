@@ -6,11 +6,7 @@ description: 台湾人の永琳 Goods
 
 {% include_relative list.md %}
 
-### 台湾人の永琳的通販商店：[7-11賣貨便](https://myship.7-11.com.tw/general/detail?id=GM2310205511905)
-
-※ 通販一律7-11超商取貨付款，需付運費\
-※ 點商品名稱可看說明\
-※ 有任何疑問請傳訊息至台湾人の永琳Facebook粉專／Instagram／LINE官方帳號，或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡
+※ 購買產品或疑問請傳訊息至台湾人の永琳Facebook粉專／Instagram／LINE官方帳號，或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡
 
 ---
 ### 台湾人の永琳二代T恤
