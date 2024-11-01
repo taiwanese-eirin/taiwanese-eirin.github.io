@@ -32,7 +32,7 @@ description: 台湾人の永琳 Home
 
 好開心可以在每次去大阪最喜歡逛的道頓堀一帶演出🥰
 
-[公式サイト](https://shinsekaismailemusicfestival.simdif.com/)
+[公式サイト](https://minamimusicalive.simdif.com/)
 
 ---
 ### 台湾・台中夜市2024 in 名古屋
