@@ -16,6 +16,15 @@ description: 台湾人の永琳 Home
 
 ## News
 ---
+### 台湾・台中夜市2024感謝
+
+![image](https://drive.google.com/thumbnail?id=1dcvwNca4vOc0Sf59__zROqvtR-ajQauP&sz=w1000)
+
+Thank you NAGOYA!
+
+来年も是非出演したいです♪
+
+---
 ### ミナスマフェス２０２４
 
 ![image](https://drive.google.com/thumbnail?id=1OrJ4KaCjLuUjj9pnVruCi3T-i4hc79ED&sz=w1000)
