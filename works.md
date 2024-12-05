@@ -14,7 +14,7 @@ description: 台湾人の永琳 Works
 | <img src="img/collaborative/seaofclouds.jpg" width="200"/> | [《雲海：無限邊境》主題歌](https://www.youtube.com/watch?v=HafK8DmClTo)<br/>作詞 |
 | <img src="img/collaborative/takara.jpg" width="200"/> | [《達卡拉物語》主題歌](https://www.youtube.com/watch?v=AzUZRHQiAp4)<br/>作詞 |
 
----
+
 ## Collaborative Album
 
 |       |       |
