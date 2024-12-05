@@ -40,6 +40,7 @@ description: 台湾人の永琳 About
 - 原創單曲〈一個人的畢業歌〉獲2022新竹動漫節採用為PV音樂
 
 ### 作品提供
+- 《異世界奇妙生活》主題歌【杏仁ミルx涅默✕璐洛洛】作詞（日文）[PV](https://www.youtube.com/watch?v=48wDGhrTiXM)
 - 《雲海：無限邊境》 (iOS/Android) 主題歌 作詞（日文） [PV](https://www.youtube.com/watch?v=HafK8DmClTo)
 - 《達卡拉物語》 (iOS/Android) 主題歌 作詞（日文） [PV](https://www.youtube.com/watch?v=AzUZRHQiAp4)
 
