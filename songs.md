@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Songs
-description: 台湾人の永琳 Songs
+title: Music
+description: 台湾人の永琳 Music
 ---
 
 {% include_relative list.md %}
 
-## Songs
+## Music
 
 | *※ Click Cover<br/>-> MV* | *※ Click Title<br/>-> Streaming* | |
 | :---: | :---: | :---: |
