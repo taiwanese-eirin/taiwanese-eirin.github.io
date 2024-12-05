@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Collaboration
-description: 台湾人の永琳 Collaborative Works
+title: Works
+description: 台湾人の永琳 Works
 ---
 
 {% include_relative list.md %}
 
-## Collaborative Works
+## Works
 
 |       |       |
 | :---: | :---: |
