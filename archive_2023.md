@@ -10,8 +10,6 @@ description: 台湾人の永琳 Archive (2023)
 
 ---
 
-## Archive (2023)
----
 ### 台湾・台中夜市2023 in 名古屋
 
 ![image](https://drive.google.com/thumbnail?id=1vXQjn8Kb1WEQk1mCwMWDcNqIOUHIxjJl&sz=w1000)
