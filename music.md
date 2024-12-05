@@ -6,7 +6,7 @@ description: 台湾人の永琳 Music
 
 {% include_relative list.md %}
 
-## Music
+## Singles
 
 | *※ Click Cover<br/>-> MV* | *※ Click Title<br/>-> Streaming* | |
 | :---: | :---: | :---: |
