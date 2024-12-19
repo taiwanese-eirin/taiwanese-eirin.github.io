@@ -21,6 +21,10 @@ description: 台湾人の永琳 Home
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/p22xAYkcYqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+> 高雄・駁二藝術特區
+> 
+> 2024/12/14
+
 感謝主辦開拓動漫祭的照顧，今年連續第3年參加FFK🥹💕
 
 久違地唱了來自台灣赤燭遊戲『還願』裡的插入曲《碼頭姑娘》，果然在碼頭唱碼頭姑娘的感覺就是不一樣🚢
