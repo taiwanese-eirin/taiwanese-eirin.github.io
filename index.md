@@ -16,6 +16,18 @@ description: 台湾人の永琳 Home
 
 ## News
 ---
+### 2025高雄駁二動漫祭
+<div class="full-width-youtube-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/p22xAYkcYqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+感謝主辦開拓動漫祭的照顧，今年連續第3年參加FFK🥹💕
+
+久違地唱了來自台灣赤燭遊戲『還願』裡的插入曲《碼頭姑娘》，果然在碼頭唱碼頭姑娘的感覺就是不一樣🚢
+
+Cover曲和原創單曲都有收到許多觀眾的好評，真的很感謝大家🥰
+
+---
 ### 台湾・台中夜市2024感謝
 
 ![image](https://drive.google.com/thumbnail?id=1dcvwNca4vOc0Sf59__zROqvtR-ajQauP&sz=w1000)
@@ -107,7 +119,6 @@ Thank you NAGOYA!
 <div class="full-width-youtube-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJ5lGiev-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
----
 
 > 東京・秋葉原
 
