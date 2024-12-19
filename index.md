@@ -20,7 +20,7 @@ description: 台湾人の永琳 Home
 <div class="full-width-youtube-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/p22xAYkcYqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+---
 > 高雄・駁二藝術特區
 > 
 > 2024/12/14
@@ -123,7 +123,7 @@ Thank you NAGOYA!
 <div class="full-width-youtube-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJ5lGiev-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+---
 > 東京・秋葉原
 
 初めて日本のライブハウスでライブ出演しましたが、
