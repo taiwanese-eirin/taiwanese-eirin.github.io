@@ -16,7 +16,7 @@ description: 台湾人の永琳 Home
 
 ## News
 ---
-### 2025高雄駁二動漫祭
+### 2024高雄駁二動漫祭
 <div class="full-width-youtube-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/p22xAYkcYqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
