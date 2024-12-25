@@ -54,7 +54,7 @@ description: 台湾人の永琳 Home
 Cover曲和原創單曲都有收到許多觀眾的好評，真的很感謝大家🥰
 
 ---
-### 台湾・台中夜市2024感謝
+### 台湾・台中夜市2024 in 名古屋感謝
 
 ![image](https://drive.google.com/thumbnail?id=1dcvwNca4vOc0Sf59__zROqvtR-ajQauP&sz=w1000)
 
