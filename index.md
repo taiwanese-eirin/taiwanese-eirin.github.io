@@ -16,6 +16,28 @@ description: 台湾人の永琳 Home
 
 ## News
 ---
+### 2025臺北最HIGH新年城 動漫應援週
+<div class="full-width-youtube-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/3J7l2-Zi_JA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+---
+> 台北・台北市政府
+> 
+> 2024/12/22
+
+真的很開心可以參加到台北市政府2025最HIGH新年城的系列活動💕
+
+演出前突然想到說：「既然這場是免費公開活動，為什麼不開個直播讓其他縣市和日本觀眾也能看到呢🤔？」
+
+所以很突然就開了直播😂
+
+因為天氣很冷講話都帶鼻音還唱的抖抖的，想說直播完就不留檔了。
+
+結果播放量也比我預想更多，還有觀眾轉貼我只好留檔了😖
+
+※因為連線沒有很穩定有時會加減速、有時還有小爆音，收看時注意音量喔！
+
+---
 ### 2024高雄駁二動漫祭
 <div class="full-width-youtube-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/p22xAYkcYqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
