@@ -10,7 +10,7 @@ description: 台湾人の永琳 Works
 
 | | *※ Click Cover<br/>-> MV* | *※ Click Title<br/>-> Streaming* | |
 | :---: | :---: | :---: | :---: |
-| 7th Single | <br/><br/>（尚未發行）<br/><br/> | 魂の探求行 ～Retrieving True Self | [歌詞](https://docs.google.com/document/d/1j-n-cCxmiTHBg4-i0kDEnJtRTuXOUnwNbEODjMLV5k8/pub) |
+| 7th Single | <br/><br/>（尚未發行）<br/><br/><br/> | 魂の探求行 ～Retrieving True Self | [歌詞](https://docs.google.com/document/d/1j-n-cCxmiTHBg4-i0kDEnJtRTuXOUnwNbEODjMLV5k8/pub) |
 | 6th Single | [![image](img/cover/single_6.jpg)](https://youtu.be/6oyVGfpnmpo) | [恋の遊園地](https://www.soundscape.net/a/42620) <br/><br/>[Live Dance Video](https://youtu.be/5y54OF12Pu0) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQvU80ScETkvdbYgpnG_eyLm2LN6QQopxdL0YyCiSMncq8r6IlhvdtYptd005suVskpKl7EVLHeZYQb/pub) |
 | 5th Single | [![image](img/cover/single_5.jpg)](https://youtu.be/5ocMN4_O8iU) | [墨色海洋](https://www.soundscape.net/a/41364) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTjnQ174PVztlAoOlMWNOUaTORe5fSJdX-yMXKlj43a7K-SYrDgjHfQII6_LbNdmFA15GDoOe0VszF_/pub) |
 | 4th Single | [![image](img/cover/single_4.jpg)](https://youtu.be/DHACQMBtWCY) | [命は短し、お酒飲もう](https://www.soundscape.net/a/31256) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vSKmamdybliDoeA1O9b2ASKZEwhGyrklDSZPD3Pcmy_s0XBHAv5WCRRPk7Xeyfxr1srOhYDhC3XvDJb/pub) |
