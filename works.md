@@ -15,7 +15,7 @@ description: 台湾人の永琳 Works
 | 5th Single | [![image](img/cover/single_5.jpg)](https://youtu.be/5ocMN4_O8iU) | [墨色海洋](https://www.soundscape.net/a/41364) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTjnQ174PVztlAoOlMWNOUaTORe5fSJdX-yMXKlj43a7K-SYrDgjHfQII6_LbNdmFA15GDoOe0VszF_/pub) |
 | 4th Single | [![image](img/cover/single_4.jpg)](https://youtu.be/DHACQMBtWCY) | [命は短し、お酒飲もう](https://www.soundscape.net/a/31256) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vSKmamdybliDoeA1O9b2ASKZEwhGyrklDSZPD3Pcmy_s0XBHAv5WCRRPk7Xeyfxr1srOhYDhC3XvDJb/pub) |
 | 3rd Single | [![image](img/cover/single_3.jpg)](https://youtu.be/8SHSo3lrphU) | [一個人的畢業歌](https://www.soundscape.net/a/26082) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQx7ZH-fum4l6_mMU06VaT-Xe4nKUl6kDjrKEziUE5m5qivi1s3haIM_3EEJqBJI2Lw25liflivMboj/pub) |
-| 2nd Single | [![image](img/cover/single_2.jpg)](https://youtu.be/Spdm6Rdkd8A) | [<small>Do You ワナ Touch Me</small>](https://www.soundscape.net/a/21065) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSJ5zLX-Lge0naOpr8bKoYfzp_poGPGSiwEQmMyoeQ7th-Y-pJJ-nKqxs2GGu-yUlnDK--Ivdg1VNm/pub) |
+| 2nd Single | [![image](img/cover/single_2.jpg)](https://youtu.be/Spdm6Rdkd8A) | [Do You ワナ Touch Me](https://www.soundscape.net/a/21065) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSJ5zLX-Lge0naOpr8bKoYfzp_poGPGSiwEQmMyoeQ7th-Y-pJJ-nKqxs2GGu-yUlnDK--Ivdg1VNm/pub) |
 | 1st Single | [![image](img/cover/single_1.jpg)](https://youtu.be/2faotuVptyk) | [生まれ変わる](https://www.soundscape.net/a/16698) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSdbYT29alt0jSFXWw9gdIhjEgB6gNBV5vq6T_w6BnkGfcslg5PRlgVTi9L23qu4nRAcOSS4gUmJLL/pub) |
 
 ###  Stories
