@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Works
-description: 台湾人の永琳 Works
+title: Portfolio
+description: 台湾人の永琳 Portfolio
 ---
 
 {% include_relative list.md %}
