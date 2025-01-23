@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Music
-description: 台湾人の永琳 Music
+title: Works
+description: 台湾人の永琳 Works
 ---
 
 {% include_relative list.md %}
