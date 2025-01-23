@@ -8,15 +8,15 @@ description: 台湾人の永琳 Works
 
 ## Singles
 
-| *※ Click Cover<br/>-> MV* | *※ Click Title<br/>-> Streaming* | |
-| :---: | :---: | :---: |
-| （尚未發行） | 魂の探求行 ～Retrieving True Self | [歌詞](https://docs.google.com/document/d/1j-n-cCxmiTHBg4-i0kDEnJtRTuXOUnwNbEODjMLV5k8/pub) |
-| [![image](img/cover/single_6.jpg)](https://youtu.be/6oyVGfpnmpo) | [台湾人の永琳 6th Single<br/>恋の遊園地](https://www.soundscape.net/a/42620) <br/><br/>[Live Dance Video](https://youtu.be/5y54OF12Pu0) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQvU80ScETkvdbYgpnG_eyLm2LN6QQopxdL0YyCiSMncq8r6IlhvdtYptd005suVskpKl7EVLHeZYQb/pub) |
-| [![image](img/cover/single_5.jpg)](https://youtu.be/5ocMN4_O8iU) | [台湾人の永琳 5th Single<br/>墨色海洋](https://www.soundscape.net/a/41364) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTjnQ174PVztlAoOlMWNOUaTORe5fSJdX-yMXKlj43a7K-SYrDgjHfQII6_LbNdmFA15GDoOe0VszF_/pub) |
-| [![image](img/cover/single_4.jpg)](https://youtu.be/DHACQMBtWCY) | [台湾人の永琳 4th Single<br/>命は短し、お酒飲もう](https://www.soundscape.net/a/31256) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vSKmamdybliDoeA1O9b2ASKZEwhGyrklDSZPD3Pcmy_s0XBHAv5WCRRPk7Xeyfxr1srOhYDhC3XvDJb/pub) |
-| [![image](img/cover/single_3.jpg)](https://youtu.be/8SHSo3lrphU) | [台湾人の永琳 3rd Single<br/>一個人的畢業歌](https://www.soundscape.net/a/26082) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQx7ZH-fum4l6_mMU06VaT-Xe4nKUl6kDjrKEziUE5m5qivi1s3haIM_3EEJqBJI2Lw25liflivMboj/pub) |
-| [![image](img/cover/single_2.jpg)](https://youtu.be/Spdm6Rdkd8A) | [台湾人の永琳 2nd Single<br/>Do You ワナ Touch Me](https://www.soundscape.net/a/21065) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSJ5zLX-Lge0naOpr8bKoYfzp_poGPGSiwEQmMyoeQ7th-Y-pJJ-nKqxs2GGu-yUlnDK--Ivdg1VNm/pub) |
-| [![image](img/cover/single_1.jpg)](https://youtu.be/2faotuVptyk) | [台湾人の永琳 1st Single<br/>生まれ変わる](https://www.soundscape.net/a/16698) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSdbYT29alt0jSFXWw9gdIhjEgB6gNBV5vq6T_w6BnkGfcslg5PRlgVTi9L23qu4nRAcOSS4gUmJLL/pub) |
+| | *※ Click Cover<br/>-> MV* | *※ Click Title<br/>-> Streaming* | |
+| :---: | :---: | :---: | :---: |
+| 7th Single | <br/><br/>（尚未發行）<br/><br/> | 魂の探求行 ～Retrieving True Self | [歌詞](https://docs.google.com/document/d/1j-n-cCxmiTHBg4-i0kDEnJtRTuXOUnwNbEODjMLV5k8/pub) |
+| 6th Single | [![image](img/cover/single_6.jpg)](https://youtu.be/6oyVGfpnmpo) | [恋の遊園地](https://www.soundscape.net/a/42620) <br/><br/>[Live Dance Video](https://youtu.be/5y54OF12Pu0) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQvU80ScETkvdbYgpnG_eyLm2LN6QQopxdL0YyCiSMncq8r6IlhvdtYptd005suVskpKl7EVLHeZYQb/pub) |
+| 5th Single | [![image](img/cover/single_5.jpg)](https://youtu.be/5ocMN4_O8iU) | [墨色海洋](https://www.soundscape.net/a/41364) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTjnQ174PVztlAoOlMWNOUaTORe5fSJdX-yMXKlj43a7K-SYrDgjHfQII6_LbNdmFA15GDoOe0VszF_/pub) |
+| 4th Single | [![image](img/cover/single_4.jpg)](https://youtu.be/DHACQMBtWCY) | [命は短し、お酒飲もう](https://www.soundscape.net/a/31256) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vSKmamdybliDoeA1O9b2ASKZEwhGyrklDSZPD3Pcmy_s0XBHAv5WCRRPk7Xeyfxr1srOhYDhC3XvDJb/pub) |
+| 3rd Single | [![image](img/cover/single_3.jpg)](https://youtu.be/8SHSo3lrphU) | [一個人的畢業歌](https://www.soundscape.net/a/26082) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vQx7ZH-fum4l6_mMU06VaT-Xe4nKUl6kDjrKEziUE5m5qivi1s3haIM_3EEJqBJI2Lw25liflivMboj/pub) |
+| 2nd Single | [![image](img/cover/single_2.jpg)](https://youtu.be/Spdm6Rdkd8A) | [<small>Do You ワナ Touch Me</small>](https://www.soundscape.net/a/21065) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSJ5zLX-Lge0naOpr8bKoYfzp_poGPGSiwEQmMyoeQ7th-Y-pJJ-nKqxs2GGu-yUlnDK--Ivdg1VNm/pub) |
+| 1st Single | [![image](img/cover/single_1.jpg)](https://youtu.be/2faotuVptyk) | [生まれ変わる](https://www.soundscape.net/a/16698) | [歌詞](https://docs.google.com/document/d/e/2PACX-1vTSdbYT29alt0jSFXWw9gdIhjEgB6gNBV5vq6T_w6BnkGfcslg5PRlgVTi9L23qu4nRAcOSS4gUmJLL/pub) |
 
 ###  Stories
 
