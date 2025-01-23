@@ -1,3 +1,3 @@
 |       |       |       |       |       |       |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <sub><sup>[Home](index.html)</sup></sub> | <sub><sup>[About](about.html)</sup></sub> | <sub><sup>[Works](works.html)</sup></sub> | <sub><sup>[Portfolio](portfolio.html)</sup></sub> | <sub><sup>[Goods](goods.html)</sup></sub> | <sub><sup>[Events](events.html)</sup></sub> |
+| <small>[Home](index.html)</small> | <small>[About](about.html)</small> | <small>[Works](works.html)</small> | <small>[Portfolio](portfolio.html)</small> | <small>[Goods](goods.html)</small> | <small>[Events](events.html)</small> |
