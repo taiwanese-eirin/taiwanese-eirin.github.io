@@ -1,3 +1,3 @@
 |       |       |       |       |       |
 | :---: | :---: | :---: | :---: | :---: |
-| [Home](index.html) | [About](about.html) | [Music](music.html) | [Works](works.html) | [Goods](goods.html) | [Events](events.html) |
+| [Home](index.html) | [About](about.html) | [Works](works.html) | [Portfolio](portfolio.html) | [Goods](goods.html) | [Events](events.html) |
