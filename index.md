@@ -17,6 +17,20 @@ description: 台湾人の永琳 Home
 ## News
 ---
 
+### 風のたてがみ cover by 台湾人の永琳
+
+![image](https://drive.google.com/thumbnail?id=1kbukCguCnX8WAsEPbpDxq1N2CrnD2nge&sz=w1000)
+
+うわあああ本人様がいいね押してくださいました((((；ﾟДﾟ)))))))
+
+「風のたてがみ」本当に大好きで何回も歌ってます。
+
+こんないい曲生み出してくれてありがとうございます😭
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zjzPWcKWVQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ### スマイルミュージックフェスティバルin 大阪城公園城天ストリート~お花見編~
 
 ![image](https://drive.google.com/thumbnail?id=1ZdceF_jIJ8lEnIxVkVfBjaL0WMLvkxvr&sz=w1000)
