@@ -19,7 +19,7 @@ description: 台湾人の永琳 Home
 
 ### スマイルミュージックフェスティバルin 大阪城公園城天ストリート~お花見編~
 
-
+![image](https://drive.google.com/thumbnail?id=1ZdceF_jIJ8lEnIxVkVfBjaL0WMLvkxvr&sz=w1000)
 
 台湾人の永琳出演時間：
 2025.04.06 (日) 13:50~14:15
