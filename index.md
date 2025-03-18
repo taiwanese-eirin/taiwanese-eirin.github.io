@@ -17,6 +17,15 @@ description: 台湾人の永琳 Home
 ## News
 ---
 
+### 墨色海洋 LIVE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zEcY2Y61wI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+這場自己覺得舞台表現和肢體都很棒（ドヤ顔
+
+而且燈光和大電視牆效果也很好就貼了整首，好像LIVE的墨色海洋很少有貼整首分享的🤔
+
+---
 ### 風のたてがみ cover by 台湾人の永琳
 
 ![image](https://drive.google.com/thumbnail?id=1kbukCguCnX8WAsEPbpDxq1N2CrnD2nge&sz=w1000)
