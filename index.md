@@ -17,6 +17,17 @@ description: 台湾人の永琳 Home
 ## News
 ---
 
+### Thank you Osaka!
+
+![image](https://drive.google.com/thumbnail?id=1E5b3FmX3WpNM-jF1NtO00l8ht4xeaD1T&sz=w1000)
+
+> 大阪・大阪城公園
+
+ライブ来てくれてありがとうございました🌸
+
+また会いましょ👋🏻🇯🇵
+
+---
 ### 墨色海洋 LIVE
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zEcY2Y61wI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
