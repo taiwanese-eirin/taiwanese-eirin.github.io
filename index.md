@@ -17,6 +17,58 @@ description: 台湾人の永琳 Home
 ## News
 ---
 
+### Petit Fancy 亞洲動漫創作展 42
+
+![image](https://drive.google.com/thumbnail?id=1Nh4du98_XiZh3aP-vRKJkAlGY44wTw3x&sz=w1000)
+
+> 少女物語 Maiden Secret
+
+這次PF第一天演出、第二天走秀，
+
+兩天是和不同的品牌合作，
+
+第一天演出時穿的這件
+
+來自品牌少女物語Maiden Secret
+
+這件真的超級顯瘦!!!!整體線條很好看，
+
+而且一開始覺得會不會有點素，
+
+但是很多人都說很適合我~~~~~開心💕
+
+![image](https://drive.google.com/thumbnail?id=1-CAa0dz589ltMhhh-vRC6SFJ8tMFL_6y&sz=w1000)
+
+> Little Rose Planet 小玫瑰星球
+> Katrina Van Tassel JSK
+> 吸血鬼少女來訪日 雙面斗篷
+
+第二天走秀的合作品牌是 Little Rose Planet小玫瑰星球
+
+小玫瑰星球的衣服已經穿過很多次了，
+這次也是一貫的好穿、舒適，
+
+布料透氣、有口袋，
+
+走秀的部分我自己覺得比去年更加進步了，
+
+一些動作感覺更有氣質了，
+
+一定是平常舞蹈老師的鞭笞有了成果🤣
+
+不知道大家覺得怎麼樣呢？
+
+早上彩排準備的時候店長還準備了水果點心，
+
+真的很用心照顧我們😆
+
+這兩天的品牌合作真的很不錯，
+
+PF真的是我一直以來都很喜歡參加的演出🥺
+
+希望未來也能繼續有這樣的合作機會！
+
+---
 ### Thank you Osaka!
 
 ![image](https://drive.google.com/thumbnail?id=1E5b3FmX3WpNM-jF1NtO00l8ht4xeaD1T&sz=w1000)
