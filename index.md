@@ -40,7 +40,9 @@ description: 台湾人の永琳 Home
 ![image](https://drive.google.com/thumbnail?id=1-CAa0dz589ltMhhh-vRC6SFJ8tMFL_6y&sz=w1000)
 
 > Little Rose Planet 小玫瑰星球
+>
 > Katrina Van Tassel JSK
+>
 > 吸血鬼少女來訪日 雙面斗篷
 
 第二天走秀的合作品牌是 Little Rose Planet小玫瑰星球
