@@ -121,7 +121,7 @@ PF真的是我一直以來都很喜歡參加的演出🥺
 
 ---
 
-### スマイルミュージックフェスティバルin 大阪城公園城天ストリート~お花見編~
+### スマイルミュージックフェスティバル in 大阪城公園城天ストリート~お花見編~
 
 ![image](https://drive.google.com/thumbnail?id=1ZdceF_jIJ8lEnIxVkVfBjaL0WMLvkxvr&sz=w1000)
 
