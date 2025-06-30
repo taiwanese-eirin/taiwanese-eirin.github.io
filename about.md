@@ -29,6 +29,7 @@ description: 台湾人の永琳 About
 - 台湾フェスタ2023 ~Enjoy! TAIWAN~（東京・代々木公園）
 
 ### 台灣出演
+- 2025桃園城市變裝嘉年華
 - 2025臺北最HIGH新年城 動漫應援週
 - 2024台北八德3C哈樂Day
 - 2024台中廣三SOGO百貨週年慶 搖滾日市集
@@ -37,23 +38,13 @@ description: 台湾人の永琳 About
 - 誠品生活西門「藝享空間」
 - 開拓動漫祭、亞洲動漫創作展、駁二動漫祭、漫畫博覽會、國際動漫節
 
-### 歌曲合作
-- 原創單曲〈一個人的畢業歌〉獲2022新竹動漫節採用為PV音樂
-
 ### 作品提供
-- 《異世界奇妙生活》 (iOS/Android) 主題歌【杏仁ミルx涅默✕璐洛洛】作詞（日文）[PV](https://www.youtube.com/watch?v=48wDGhrTiXM)
-- 《雲海：無限邊境》 (iOS/Android) 主題歌 作詞（日文） [PV](https://www.youtube.com/watch?v=HafK8DmClTo)
-- 《達卡拉物語》 (iOS/Android) 主題歌 作詞（日文） [PV](https://www.youtube.com/watch?v=AzUZRHQiAp4)
-
-### 節目出演
-- 麥卡貝音樂頻道「學生天團瘋音樂」
-  - [2023-07-22](https://youtu.be/S0QUCCuNdRI?si=j0CqGopIsK06W3LO)
-  - [2022-12-24](https://youtu.be/mAS5O02slUI?si=CiY5s2HD26mHgypo)
-  - [2022-09-10](https://youtu.be/-Edg4jjzwvw?si=kjZZIXxKF5iZc6rT)
-
-### Youtube
-- Vtuber 西西莉「CZ想聽搖籃曲」Live 出演
-  -  [2023-10-13](https://www.youtube.com/live/i-VxEPFifJ0?si=jYzG0aBxzVngIDj7) （Live2D出演）
+- 氧氣みどり3rd Single 〈binary stars ∞〉 作詞（中文）
+- 《異世界のんびりライフ》CM「演劇の星が登場」篇【橋本環奈出演、唄】（日本語）
+- 《異世界のんびりライフ》1周年記念PV 作詞（日本語）
+- 《異世界奇妙生活》 (iOS/Android) 主題歌【杏仁ミルx涅默✕璐洛洛】作詞（日本語）
+- 《雲海：無限邊境》 (iOS/Android) 主題歌 作詞（日本語）
+- 《達卡拉物語》 (iOS/Android) 主題歌 作詞（日本語）
 
 ---
 ## 「台湾人の永琳」介紹
@@ -75,8 +66,6 @@ description: 台湾人の永琳 About
 ### 2023年
 - 台湾人の永琳6th Single〈恋の遊園地〉 製作、作詞、作曲、演唱
 - 台湾人の永琳5th Single〈墨色海洋〉 製作、作詞、作曲、演唱
-- 遊戲《達卡拉物語》主題歌 作詞（日文）
-- 遊戲《雲海：無限邊境》主題歌 作詞（日文）
 
 ### 2022年
 - 台湾人の永琳4th Single〈命は短し、お酒飲もう〉 製作、作詞、作曲、演唱
