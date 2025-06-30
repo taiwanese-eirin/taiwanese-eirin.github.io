@@ -17,6 +17,20 @@ description: 台湾人の永琳 Home
 ## News
 ---
 
+### 異世界のんびりライフ1周年
+
+紀錄一下參與到的手遊主題歌製作，廣告有橋本環奈出演🙀
+
+讓橋本環奈唱到寫的歌詞算是一種成就嗎？
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GvO1zJRExtY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> 橋本環奈出演の異世界のんびりライフ新CM「演劇の星が登場」篇
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/v-p_nU694f8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> 『異世界のんびりライフ』1周年記念PV
+
+---
+
 ### Petit Fancy 亞洲動漫創作展 42
 
 ![image](https://drive.google.com/thumbnail?id=1Nh4du98_XiZh3aP-vRKJkAlGY44wTw3x&sz=w1000)
