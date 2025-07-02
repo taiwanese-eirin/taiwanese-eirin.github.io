@@ -9,6 +9,14 @@ description: 台湾人の永琳 Goods
 ※ 購買產品或疑問請傳訊息至[台湾人の永琳Instagram](https://www.instagram.com/taiwanese_eirin)或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡
 
 ---
+
+### 2025新周邊
+
+![image](https://drive.google.com/thumbnail?id=1RD8Ld3PWvNbOxU4KN6LmdekYrMkrPful&sz=w1000)
+
+新的Q版貼紙徽章、壓克力吊飾和真人立牌！
+
+---
 ### 台湾人の永琳二代T恤
 
 ![image](https://lh4.googleusercontent.com/tH6trOkOBmj-5-tltmVNyNTmERzFI1l6CGgveYEtcaOai2572AXDcVGA029JLvn5O_qzEX7BYWNyN7XWFYortbgTrZQlgr6aoXzGK5xejHLQummzSmAv2BfLyrpgx8G9ve5sLOrxBtqY-5P3bS1mQwQ28VzLZQ)
