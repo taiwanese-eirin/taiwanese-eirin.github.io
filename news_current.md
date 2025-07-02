@@ -1,4 +1,6 @@
 
+{% include_relative youtube_style.md %}
+
 ## 2025 News
 
 ### 異世界のんびりライフ1周年 記念PV、CMソング作詞担当
