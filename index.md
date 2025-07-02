@@ -10,8 +10,6 @@ description: 台湾人の永琳 Home
 
 {% include_relative ig.md %}
 
----
-
 {% include_relative past_news.md %}
 
 ---
