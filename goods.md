@@ -6,7 +6,7 @@ description: 台湾人の永琳 Goods
 
 {% include_relative list.md %}
 
-※ 購買產品或疑問請傳訊息至[台湾人の永琳Instagram](https://www.instagram.com/taiwanese_eirin)或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡
+※ 購買產品或疑問請傳訊息至[Instagram](https://www.instagram.com/taiwanese_eirin)或以 [E-mail](mailto:taiwanese.eirin@gmail.com) 聯絡
 
 ---
 
