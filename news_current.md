@@ -11,13 +11,14 @@
 
 今年除了個人演出之外，很高興能在松本梨香老師演出同日參加暖場的DJ合作演出😊
 
-![image](https://drive.google.com/thumbnail?id=1urqlgRnuXK1U8B1oTasEduQWFKtmY61F/view&sz=w1000)
+![image](https://drive.google.com/thumbnail?id=1urqlgRnuXK1U8B1oTasEduQWFKtmY61F&sz=w1000)
 
 能在這麼棒舞臺演出真的很開心✨
 
 然後個人演出的「悪魔の子」這次應該是目前演出之中比較好的一次，上傳來紀念一下：
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K56UkLOYQVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> 20250914 台中市政府
 
 ---
 
