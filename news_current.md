@@ -5,6 +5,22 @@
 
 ---
 
+### 2025 台中國際動漫博覽會
+
+很高興今年也能參加台中國際動漫博覽會💕
+
+今年除了個人演出之外，很高興能在松本梨香老師演出同日參加暖場的DJ合作演出😊
+
+![image](https://drive.google.com/thumbnail?id=1urqlgRnuXK1U8B1oTasEduQWFKtmY61F/view&sz=w1000)
+
+能在這麼棒舞臺演出真的很開心✨
+
+然後個人演出的「悪魔の子」這次應該是目前演出之中比較好的一次，上傳來紀念一下：
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/K56UkLOYQVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ### 異世界のんびりライフ1周年 記念PV、CMソング作詞担当
 
 紀錄一下參與到的手遊主題歌製作，廣告有橋本環奈出演🙀
