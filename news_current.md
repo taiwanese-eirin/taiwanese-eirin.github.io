@@ -5,6 +5,21 @@
 
 ---
 
+### 台湾・台中夜市2025 in 名古屋
+
+![image](https://drive.google.com/thumbnail?id=16f6uv5G0cVd-8ue-bELKelC8UPd1HCKW&sz=w1000)
+> 202511/29 名古屋・栄
+
+今年も参加します！
+
+タイムテーブルが出ましたら、すぐにこちらで更新しますね！
+
+台湾人の永琳出演時間：
+
+[公式サイト](https://kato-hidehiko.asia/taichung-yeshi/)
+
+---
+
 ### 2025 台中國際動漫博覽會
 
 很高興今年也能參加台中國際動漫博覽會💕
@@ -18,7 +33,7 @@
 然後個人演出的「悪魔の子」這次應該是目前演出之中比較好的一次，上傳來紀念一下：
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K56UkLOYQVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> 20250914 台中市政府
+> 2025/09/14 台中市政府
 
 ---
 
