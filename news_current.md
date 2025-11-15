@@ -8,13 +8,16 @@
 ### 台湾・台中夜市2025 in 名古屋
 
 ![image](https://drive.google.com/thumbnail?id=16f6uv5G0cVd-8ue-bELKelC8UPd1HCKW&sz=w1000)
-> 202511/29 名古屋・栄
+> 2025/11/29 名古屋・栄
 
 今年も参加します！
 
 タイムテーブルが出ましたら、すぐにこちらで更新しますね！
 
 台湾人の永琳出演時間：
+
+- 11/29（土）13:30〜14:00
+- 11/29（土）16:45〜17:15
 
 [公式サイト](https://kato-hidehiko.asia/taichung-yeshi/)
 
